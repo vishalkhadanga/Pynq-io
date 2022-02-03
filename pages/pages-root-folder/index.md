@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
+  title: "PYNQ Board Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'This is a test to see if I am actually able to change anything on root folder. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  image: PYNQ.jpg
+  text: 'We have a small but growing range of PYNQ boards with our newest board, the <em>PYNQ-ZU</em> now released and available. Click more to see the list of boards available for purchase.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
