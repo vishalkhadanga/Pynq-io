@@ -27,11 +27,11 @@ $body-bg            : #fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1               : #e63380; // dark turquoise
-$ci-2               : #e63380; // turquoise
-$ci-3               : #ffffff; // yellow
-$ci-4               : #eca9e3; // orange
-$ci-5               : #eca9e3; // red
-$ci-6               : #eca9e3; // green
+$ci-2               : rgba(240, 135, 180, 0.75); // turquoise
+$ci-3               : #EFC94C; // yellow
+$ci-4               : #E27A3F; // orange
+$ci-5               : #DF4949; // red
+$ci-6               : #e63380; // green
 
 
 
@@ -149,5 +149,5 @@ $highlight-name-function: #990000;
 $highlight-name-namespace: #555555;
 $highlight-name-tag: #000080;
 $highlight-text-whitespace: #bbbbbb;
-$highlight-literal-string-regex: #ff6beb;
+$highlight-literal-string-regex: #009926;
 $highlight-literal-string-symbol: #990073;
