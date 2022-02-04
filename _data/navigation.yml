@@ -2,12 +2,12 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+  - title: About PYNQ
+  url: "/aboutpynq/"
   side: left
 
-- title: About PYNQ
-  url: "/aboutpynq/"
+- title: Getting Started
+  url: "/getting-started/"
   side: left
 
 - title: "Header Styles"
