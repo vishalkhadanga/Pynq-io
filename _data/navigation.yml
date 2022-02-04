@@ -6,6 +6,10 @@
   url: "/getting-started/"
   side: left
 
+- title: About PYNQ
+  url: "/aboutpynq/"
+  side: left
+
 - title: "Templates"
   url: "/design/"
   side: left
