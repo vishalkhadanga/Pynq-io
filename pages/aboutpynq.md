@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "What is PYNQ"
-subheadline: "All you need to know"
+subheadline: 
 header:
    image_fullwidth: "Topimage.jpg"
 permalink: "/aboutpynq/"
