@@ -1,14 +1,13 @@
 ---
 layout: page
 show_meta: false
-title: "About PYNQ"
+title: "What is PYNQ"
 subheadline: "All you need to know"
 header:
    image_fullwidth: "Topimage.jpg"
 permalink: "/aboutpynq/"
 ---
 
-# What is PYNQ?
 
 PYNQ is an open-source project from Xilinx® that makes it easier to use Xilinx platforms.
 
