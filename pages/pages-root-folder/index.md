@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "PYNQ Community"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: 'The <em>PYNQ Community</em> is a collection of project tutorials, training videos and other resources to help you get the most out of your PYNQ board. <br/>1. <a href="#">PYNQ Embedded community projects</a><br/>2. <a href="#">PYNQ Alveo community projects and tutorials</a><br/>3.<a href="#">Machine Learning on Xilinx FPGAs with FINN</a>.<br/>4.<a href="#">Tutorials and other resources.</a><br/>5.<a href="#">Example Notebooks.</a><br/>
+  text: 'The <em>PYNQ Community</em> is a collection of project tutorials, training videos and other resources to help you get the most out of your PYNQ board. <br/>1. <a href="#">PYNQ Embedded community projects</a><br/>2. <a href="#">PYNQ Alveo community projects and tutorials</a><br/>3.<a href="#">Machine Learning on Xilinx FPGAs with FINN</a>.<br/>4.<a href="#">Tutorials and other resources.</a><br/>5.<a href="#">Example Notebooks.</a><br/>5.
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
