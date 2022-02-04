@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-  - title: About PYNQ
+- title: About PYNQ
   url: "/aboutpynq/"
   side: left
 
