@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  text: New to PYNQ? Click here! 
   style: alert
 permalink: /index.html
 #
