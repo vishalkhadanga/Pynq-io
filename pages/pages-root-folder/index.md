@@ -21,7 +21,7 @@ widget3:
   title: "Getting Started"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: '<em>You need a supported Xilinx platform to get started. How you get PYNQ depends on your platform. For some Zynq|Zynq Ultrascale+ platforms you can download an SD card image to boot the board. For other platforms, including Alveo, you can install PYNQ onto your host Operating System.'
+  text: 'You need a supported Xilinx platform to get started. How you get PYNQ depends on your platform. For some Zynq|Zynq Ultrascale+ platforms you can download an SD card image to boot the board. For other platforms, including Alveo, you can install PYNQ onto your host Operating System.'
 #
 # Use the call for action to show a button on the frontpage
 #
