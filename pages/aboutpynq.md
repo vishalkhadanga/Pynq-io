@@ -23,6 +23,7 @@ PYNQ can be used with Zynq, Zynq UltraScale+, Zynq RFSoC, Alveo accelerator boar
 - high bandwidth IO
 - low latency control
 
+
 # Who is PYNQ for?
 
 PYNQ is intended to be used by a wide range of designers and developers including:
@@ -30,6 +31,7 @@ PYNQ is intended to be used by a wide range of designers and developers includin
 - Software developers who want to take advantage of the capabilities of Xilinx platforms without having to use ASIC-style design tools to design hardware.
 - System architects who want an easy software interface and framework for rapid prototyping and development of their Zynq, Alveo and AWS-F1 design.
 - Hardware designers who want their designs to be used by the widest possible audience.
+
 
 # Key Technologies
 
@@ -45,21 +47,21 @@ Using Python, developers can use hardware libraries and overlays on the programm
 
 PYNQ can be delivered in two ways; as a bootable Linux image for a Zynq board, which includes the pynq Python package, and other open-source packages, or as a Python package for an Alveo or AWS-F1 host computer. 
 
+
 # What software do I need
 
 Jupyter notebook runs in a web browser. Only a compatible web browser is needed to start programming PYNQ with Python. 
 
- 
 
 For higher performance, you can also use C/C++ with Python and PYNQ. The Xilinx SDK software development environment is available for free. You can also use third party software development tools. 
 
  
-
 New hardware libraries and overlays can be created using standard Xilinx and third party hardware design tools.
 
 The free WebPACK version of Xilinx Vivado can be used with a wide range of Zynq boards
 
 Vitis and Vitis open-source Accelerated Libraries are free, and can be used for Alveo/AWS-F1.
+
 
 # Get involved
 
