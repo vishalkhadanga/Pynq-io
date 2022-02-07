@@ -19,7 +19,7 @@ header:
 It's so easy to do. Just define in front matter your image.
 <!--more-->
 
-{% raw %}{% include gallery %}{% endraw %}
+{% include gallery %}
 
 
 
