@@ -10,12 +10,12 @@
   url: "/getting-started/"
   side: left
 
-- title: "Header Styles"
+- title: "PYNQ Community"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
+  - title: "PYNQ Community Projects"
+    url: "/design/portfolio/"
   - title: "Header with Image and Pattern"
     url: "/design/header-image-pattern/"
   - title: "Header with image and color"
