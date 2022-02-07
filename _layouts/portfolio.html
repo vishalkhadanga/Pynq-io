@@ -1,0 +1,93 @@
+---
+layout: default
+format: post
+---
+<h2>Our Gifts Create an Impact</h2>
+<div class="impact-items">
+ {% for block in section.blocks %}
+  <div class="impact-content col-xs-12 col-md-4">
+    <div class="impact-icon"><img src="{{block.settings.impact_icon | img_url: 'master' }}"></div>
+    <div>
+     <div class="impact-number">{{block.settings.impact_number}}</div>
+     <div>{{block.settings.impact_text}}</div>
+   </div>
+  </div>
+ {% endfor %}
+</div>
+
+<div class="mt2x btn center-xs col-sm-12 col-md-12 col-lg-12 col-xl-12"><a href='https://packedwithpurpose.gifts/our-impact/impact-report-2020/'><button>Learn More About our Impact</button></a></div>
+
+{% schema %}
+ {
+  "name": "Impact Stats",
+  "blocks" : [
+   {
+    "type":"icon_number_text",
+    "name":"Stats Block",
+    "settings" : [
+     {
+      "id":"impact_icon",
+      "type":"image_picker",
+      "label":"Impact Icon"
+     },
+     {
+      "id":"impact_number",
+      "type":"text",
+      "label":"Impact Number"
+     },
+     {
+      "id":"impact_text",
+      "type":"text",
+      "label":"Impact Text"
+     }
+    ]
+   }
+  ]
+ }
+{% endschema %}
+
+{% stylesheet %}
+.product-view .impact-section h2 {
+ align-content: center;
+ text-align: center;
+ color: #847d7a;
+ font-family: "Playfair Display",serif !important;
+ text-transform: none;
+ letter-spacing: normal;
+ font-weight: 700 !important;
+ font-style: italic;
+ margin: 30px 0;
+}
+
+.impact-content {
+ display: flex;
+ align-items: center;
+}
+
+.impact-items {
+ display:flex;
+}
+
+.impact-section .mt2x.btn.center-xs.col-sm-12.col-md-12.col-lg-12.col-xl-12 button {
+ background-color: #be9475;
+ border-radius: 50px;
+ background-color: #be9475;
+ border-radius: 50px;
+ height: 70px;
+ line-height: 3;
+ font-weight: 700;
+ font-size: 20px;
+}
+
+.impact-icon {
+ padding-right:16px;
+}
+
+.impact-number {
+ font-weight:900;
+ font-size:25px;
+}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
