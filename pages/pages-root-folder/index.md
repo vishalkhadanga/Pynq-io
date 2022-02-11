@@ -10,7 +10,7 @@ header:
 widget1:
   title: "PYNQ Board Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: PYNQ.JPG
+  image: pynqimg.png
   text: '<em>PYNQ</em> has a small but growing range of boards that enable designers to exploit the benefits of programmable logic and microprocessors to build more capable and exciting electronic systems. They can be used with Xilinx ZYNQ products.'
 widget2:
   title: "PYNQ Community"
