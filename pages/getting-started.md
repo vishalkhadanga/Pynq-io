@@ -101,6 +101,18 @@ The following rootfs files can be used for rebuilding an image for a custom boar
  
 ## Recommended getting started board
 
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 
 <table class="boards">
 <tbody><tr><th width=""></th><th width="">PYNQ-Z2</th>
