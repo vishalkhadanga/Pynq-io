@@ -89,6 +89,16 @@ If you have a Zynq board, you need a PYNQ SD card image to get started. You can 
   <td><a href="https://www.aldec.com/en/products/emulation/tysom_boards/zynq_ultrascale_mpsoc_boards/tysom_3a">Aldec TySOM-3A-ZU19EG</a></td>
  </tr>
 </tbody></table>
+*For the Kria KV260, follow the guide for the Ubuntu image and then follow the Kria PYNQ setup instructions to install PYNQ.
+
+## Build a PYNQ SD Card Image
+
+See the <a href="https://pynq.readthedocs.io/en/latest/pynq_sd_card.html">PYNQ image build guide</a> or details on building the PYNQ image. 
+The following rootfs files can be used for rebuilding an image for a custom board:
+
+- <a href="https://bit.ly/pynq_aarch64_2_7">PYNQ rootfs aarch64 v2.7</a>
+- <a href="">PYNQ rootfs arm v2.7</a>
+ 
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
 
