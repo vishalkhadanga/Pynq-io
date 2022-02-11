@@ -101,6 +101,8 @@ The following rootfs files can be used for rebuilding an image for a custom boar
  
 ## Recommended getting started board
 
+<div class="small-12 columns b60"><p class="subheadline"><span class="subheader">design</span> – Discussion</p><h2><a href="https://phlow.github.io/feeling-responsive/design/comments/">Now with Comments!</a></h2><p> <a href="https://phlow.github.io/feeling-responsive/design/comments/" title="Now with Comments!"><img src="https://phlow.github.io/feeling-responsive/images/typewriter-thumb.jpg" class="alignleft" width="150" height="150" alt="Blog of Feeling Responsive"></a> For a blog you need comments. Like all those other jekyll themes we baked in Disqus. It's easy to set, it works and makes a static jekyll blog more dynamic. <a href="https://phlow.github.io/feeling-responsive/design/comments/" title="Read Now with Comments!"><strong>Read More&nbsp;›</strong></a></p></div>
+
 <table class="boards">
 <tbody><tr><th width=""></th><th width="">PYNQ-Z2</th>
 </tr><tr><td>Device</td><td>Zynq Z7020</td></tr>
