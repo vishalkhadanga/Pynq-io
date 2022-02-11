@@ -101,6 +101,8 @@ The following rootfs files can be used for rebuilding an image for a custom boar
  
 ## Recommended getting started board
 
+<div class="PictureBox " itemclicktype="none" social="false" style="position:absolute;left:44px;top:1602px;z-index:10009;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;width:406px;height:304px;overflow:hidden;border-width:0px;border-style:solid;border-color:transparent;border-color:#000000;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;width:388px;height:304px;"><div class="inner-visible" style="position:relative;width:388px;height:304px;"><img realwidth="600" cropx="0" cropy="7.486" realheight="447" originalsrc="http://lh3.googleusercontent.com/gMS-DWfKG4hTjUpAnOpT51ReoTOgWxQGLcyW1754gOTt-JhIbmtlT6FVllAp6OTkqH-5Lcz1NsygD2FtbVYfXJeZ6w=s388" src="http://lh3.googleusercontent.com/gMS-DWfKG4hTjUpAnOpT51ReoTOgWxQGLcyW1754gOTt-JhIbmtlT6FVllAp6OTkqH-5Lcz1NsygD2FtbVYfXJeZ6w=s388" style="position:absolute;left:0px;top:7px;width:388px;height:289px;"></div>
+
 <table class="boards">
 <tbody><tr><th width=""></th><th width="">PYNQ-Z2</th>
 </tr><tr><td>Device</td><td>Zynq Z7020</td></tr>
