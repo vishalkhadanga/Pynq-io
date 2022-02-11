@@ -101,7 +101,7 @@ The following rootfs files can be used for rebuilding an image for a custom boar
  
 ## Recommended getting started board
 
-<div class="small-12 columns b60"><p><a href="https://phlow.github.io/feeling-responsive/design/comments/"><img src="https://phlow.github.io/feeling-responsive/images/typewriter-thumb.jpg" class="alignleft" width="150" height="150" alt="Blog of Feeling Responsive"></a> <table class="boards">
+<div class="small-12 columns b60"><p><a href="https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html"><img src="http://lh3.googleusercontent.com/gMS-DWfKG4hTjUpAnOpT51ReoTOgWxQGLcyW1754gOTt-JhIbmtlT6FVllAp6OTkqH-5Lcz1NsygD2FtbVYfXJeZ6w=s388" class="alignleft" width="150" height="150" alt="Blog of Feeling Responsive"></a> <table class="boards">
 <tbody><tr><th width=""></th><th width="">PYNQ-Z2</th>
 </tr><tr><td>Device</td><td>Zynq Z7020</td></tr>
 <tr><td>Memory</td><td>512MB DDR3</td></tr>
@@ -117,7 +117,7 @@ The following rootfs files can be used for rebuilding an image for a custom boar
 <tr><td></td><td>4x Pushbuttons</td></tr>
 <tr><td></td><td>2x Dip switches</td></tr>
 <tr><td>Dimensions</td><td>3.44” x 5.51” (87mm x 140mm)</td></tr>
-</tbody></table><a href="https://phlow.github.io/feeling-responsive/design/comments/" title="See the TUL Wwebpage"><strong>TUL Webpage&nbsp;›</strong></a></p></div>
+</tbody></table><a href="https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html" title="See the TUL Wwebpage"><strong>TUL Webpage&nbsp;›</strong></a></p></div>
 
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
