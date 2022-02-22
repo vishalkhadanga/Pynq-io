@@ -11,6 +11,8 @@ header:
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->
 
+{% include gallery %} 
+
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
