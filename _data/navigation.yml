@@ -16,8 +16,8 @@
   dropdown:
   - title: "PYNQ Community Projects"
     url: "/design/portfolio/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
+  - title: "PYNQ"
+    url: "/design/gallery/"
   - title: "Header with image and color"
     url: "/design/header-image-color/"
   - title: "Header Only With Logo"
