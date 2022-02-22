@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: New to PYNQ? Click here! 
+  url: https://www.tulembedded.com/FPGA/ProductsPYNQ-ZU.html
+  text: Click here to buy PYNQ Boards! 
   style: alert
 permalink: /index.html
 #
