@@ -13,7 +13,7 @@ header:
 
 
 <div class="row">
-{% include gallery %} 
+{% raw %}{% include gallery %}{% endraw %}
 
 </div><!-- /.row -->
 
