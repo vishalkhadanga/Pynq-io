@@ -11,16 +11,16 @@ categories:
 <div class="row t60">
     <div class="medium-4 columns">
         <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
-        <p>Website: <a href="http://jcorneille.de">Support vector machines on PYNQ - Strathclyde University</a></p>
+        <p>Support vector machines on PYNQ <a href="http://jcorneille.de">Strathclyde University</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
         <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
-        <p>Website: <a href="https://phlow.de/">PYNQ Plaster - Politechnico di Milano</a></p>
+        <p>PYNQ Plaster -<a href="https://phlow.de/"> Abandoned object detection using map-reduce on multi-FPGA cluster - Politechnico di Milano</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
-        <center><img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
         <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
