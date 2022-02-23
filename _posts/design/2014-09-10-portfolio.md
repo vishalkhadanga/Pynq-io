@@ -9,12 +9,17 @@ categories:
 <!--more-->
 
 <div class="row t60">
-    <div class="medium-6 columns b30">
+    <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
         <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
     </div><!-- /.medium-6.columns -->
 
-    <div class="medium-6 columns b30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
+        <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
         <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
     </div><!-- /.medium-6.columns -->
