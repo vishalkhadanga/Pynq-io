@@ -11,16 +11,16 @@ categories:
 <div class="row t60">
     <div class="medium-4 columns">
         <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
+        <p>Website: <a href="http://jcorneille.de">Support vector machines on PYNQ - Strathclyde University</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
+        <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
         <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
+        <center><img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt=""></center>
         <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
