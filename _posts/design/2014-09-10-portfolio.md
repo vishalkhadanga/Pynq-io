@@ -23,6 +23,11 @@ categories:
         <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
         <p>University of Zaragoza - <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Sensorial fusion via QNNs</a></p>
     </div><!-- /.medium-6.columns -->
+
+        <div class="medium-4 columns">
+        <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
+        <p>University of Zaragoza - <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Sensorial fusion via QNNs</a></p>
+    </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 
