@@ -16,7 +16,7 @@ categories:
 
     <div class="medium-4 columns">
         <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
-        <p>Politechnico di Milano -<a href="https://bitbucket.org/necst/xohw2020_plaster_public"> PYNQ Plaster - Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
+        <p>Politechnico di Milano -<a href="https://bitbucket.org/necst/xohw2020_plaster_public"> PYNQ Plaster: Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
@@ -25,6 +25,23 @@ categories:
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
+        <p>Website: <a href="https://andersneu.de/">andersneu.de</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}webdesign_screenshot_mosonic.jpg" alt="">
+        <p>Website: <a href="https://mosonic.net/">mosonic.net</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
+        <p>Website: <a href="https://moritz.sauer.io/">Webdesign, SEO, Music</a></p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
 
 <div class="row t30">
     <div class="medium-4 columns">
