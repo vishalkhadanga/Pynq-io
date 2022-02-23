@@ -16,7 +16,7 @@ categories:
 
     <div class="medium-4 columns">
         <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
-        <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
+        <p>Website: <a href="https://phlow.de/">PYNQ Plaster - Politechnico di Milano</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
