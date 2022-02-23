@@ -92,7 +92,7 @@ categories:
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal16.gif" alt=""></center>
+        <center><img src="{{ site.urlimg }}gal16.png" alt=""></center>
         <p>Jiangnan University, China: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">SNN Simulator on PYNQ Cluster</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
