@@ -8,7 +8,10 @@ categories:
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
+The PYNQ embedded community page highlights examples of projects for Zynq based boards.
+
+Examples include image and video processing, robot and industrial control, machine learning, RISC-V prototyping, RFSoC QPSK and more. 
+
 <!--more-->
 
 <div class="row t60">
