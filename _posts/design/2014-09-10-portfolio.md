@@ -38,12 +38,12 @@ categories:
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal5.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}gal5.png" alt=""></center>
         <p>XUP China Summer School -<a href="https://bitbucket.org/necst/xohw2020_plaster_public"> PYNQ Smart Lock</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal6.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}gal6.png" alt=""></center>
         <p>XUP China Summer School - <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Defocus Image Deblurring</a></p>
     </div><!-- /.medium-6.columns -->
 
