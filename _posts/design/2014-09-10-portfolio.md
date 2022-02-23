@@ -11,22 +11,22 @@ categories:
 <div class="row t60">
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
-        <p>Strathclyde University - <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
+        <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
-        <p>Politechnico di Milano -<a href="https://bitbucket.org/necst/xohw2020_plaster_public"> PYNQ Plaster: Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
+        <p>Politechnico di Milano: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">PYNQ Plaster - Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
-        <p>University of Zaragoza - <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Sensorial fusion via QNNs</a></p>
+        <p>University of Zaragoza: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Sensorial fusion via QNNs</a></p>
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal8.jpg" alt=""></center>
-        <p>Strathclyde University - <a href="https://github.com/smpis/PyPix">Pypix: 3D scene reconstruction based on stereo vision</a></p>
+        <p>Strathclyde University: <a href="https://github.com/smpis/PyPix">Pypix - 3D scene reconstruction based on stereo vision</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
@@ -34,44 +34,44 @@ categories:
 <div class="row t60">
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal4.gif" alt=""></center>
-        <p>Fred Kellerman - <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">PYNQ fractal factory</a></p>
+        <p>Fred Kellerman: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">PYNQ fractal factory</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal5.png" alt=""></center>
-        <p>XUP China Summer School -<a href="https://bitbucket.org/necst/xohw2020_plaster_public"> PYNQ Smart Lock</a></p>
+        <p>XUP China Summer School: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">PYNQ Smart Lock</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal6.png" alt=""></center>
-        <p>XUP China Summer School - <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Defocus Image Deblurring</a></p>
+        <p>XUP China Summer School: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Defocus Image Deblurring</a></p>
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal7.jpg" alt=""></center>
-        <p>XUP China Summer School - <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Handwritten Mechanical Calculator</a></p>
+        <p>XUP China Summer School: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Handwritten Mechanical Calculator</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 <div class="row t60">
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
-        <p>Strathclyde University - <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
+        <p>XUP China Summer School: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">iSmart2 PYNQ Hardware </a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
-        <p>Politechnico di Milano -<a href="https://bitbucket.org/necst/xohw2020_plaster_public"> PYNQ Plaster: Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
+        <p>XUP China Summer School: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">AES Encryption/Decryption</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
-        <p>University of Zaragoza - <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Sensorial fusion via QNNs</a></p>
+        <p>Southeast University, China; Xilinx China: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">PYNQ ORB feature extractor</a></p>
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
-        <p>University of Zaragoza - <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Sensorial fusion via QNNs</a></p>
+        <p>PYNQ gesture recognition: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">University of Science and Technology Beijing, Xilinx China</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
