@@ -55,22 +55,22 @@ categories:
 
 <div class="row t60">
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}gal9.png" alt=""></center>
         <p>XUP China Summer School: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">iSmart2 PYNQ Hardware </a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}gal10.png" alt=""></center>
         <p>XUP China Summer School: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">AES Encryption/Decryption</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}gal11.png" alt=""></center>
         <p>Southeast University, China; Xilinx China: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">PYNQ ORB feature extractor</a></p>
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}gal12.gif" alt=""></center>
         <p>PYNQ gesture recognition: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">University of Science and Technology Beijing, Xilinx China</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
