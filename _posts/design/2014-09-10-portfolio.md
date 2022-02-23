@@ -75,3 +75,25 @@ categories:
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal13.png" alt=""></center>
+        <p>Xilinx University Program: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">PYNQ respeaker</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal14.png" alt=""></center>
+        <p>Xilinx University Program China: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">PYNQ CV OV5640</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal15.png" alt=""></center>
+        <p>Xilinx University Program China: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">PYNQ Sense Hat</a></p>
+    </div><!-- /.medium-6.columns -->
+
+        <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal16.gif" alt=""></center>
+        <p>Jiangnan University, China: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">SNN Simulator on PYNQ Cluster</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
