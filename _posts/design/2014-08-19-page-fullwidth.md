@@ -14,15 +14,15 @@ header:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-2.jpg" alt="">
+    <img src="{{ site.urlimg }}gal1.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
+      <img src="{{ site.urlimg }}gal1.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
+      <img src="{{ site.urlimg }}gal1.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
