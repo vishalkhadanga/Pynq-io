@@ -97,3 +97,25 @@ categories:
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal17.png" alt=""></center>
+        <p>Southeast University, China: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">CC-Cam a PYNQ diffuser camera</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal18.gif" alt=""></center>
+        <p>University of Strathclyde: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">Open Source RFSoC Spectrum Analyzer</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal19.gif" alt=""></center>
+        <p>Mahan Bastani, Nolan Chang, Atsushi Domyo, Daniel Kizito: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">PYNQ S-Curve motion controller</a></p>
+    </div><!-- /.medium-6.columns -->
+
+        <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal20.png" alt=""></center>
+        <p>Julian Bartolone: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Ultra96 Facial Recognition Deadbolt Using PYNQ</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
