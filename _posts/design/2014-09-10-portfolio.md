@@ -119,3 +119,25 @@ categories:
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal21.gif" alt=""></center>
+        <p>Adam Taylor: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">PYNQ Controlled NeoPixel LED Cube</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal22.png" alt=""></center>
+        <p>Giorgos Tzanos: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">Gaussian Naive Bayes NTUA</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal23.gif" alt=""></center>
+        <p>Rajeev Patwari, Nathalie Chan, King Choy: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">N-Particle Gravity Simulation on Ultra96</a></p>
+    </div><!-- /.medium-6.columns -->
+
+        <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal24.png" alt=""></center>
+        <p>University Strathclyde: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">PYNQ RFSoC - QPSK demo on ZCU111</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
