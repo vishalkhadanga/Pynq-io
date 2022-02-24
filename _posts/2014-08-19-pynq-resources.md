@@ -53,69 +53,59 @@ For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.
 
 <div class="row t60">
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal4.gif" alt=""></center>
-        <p>Fred Kellerman: <a href="https://github.com/FredKellerman/pynq-juliabrot">PYNQ fractal factory</a></p>
+        <center><img src="{{ site.urlimg }}tr1.gif" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ_Workshop">PYNQ Tutorial workshop</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal5.png" alt=""></center>
-        <p>XUP China Summer School: <a href="https://github.com/XilinxCannonFodderTeam/smart_lock">PYNQ Smart Lock</a></p>
+        <center><img src="{{ site.urlimg }}tr2.png" alt=""></center>
+        <p>FPGA Developer: <a href="http://www.fpgadeveloper.com/2018/03/create-a-custom-pynq-overlay-for-pynq-z1.html">HLS filter example</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal6.png" alt=""></center>
-        <p>XUP China Summer School: <a href="https://github.com/PaiPai121/Defocus-Image-Deblurring-Based-on-PYNQ">Defocus Image Deblurring</a></p>
+        <center><img src="{{ site.urlimg }}tr3.png" alt=""></center>
+        <p>Dustin Richmond: <a href="https://github.com/drichmond/PYNQ-HLS">PYNQ HLS Tutorial</a></p>
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal7.jpg" alt=""></center>
-        <p>XUP China Summer School: <a href="https://github.com/Microdent/Handwritten_Mathematical_Calculator_on_FPGA">Handwritten Mechanical Calculator</a></p>
+        <center><img src="{{ site.urlimg }}tr4.jpg" alt=""></center>
+        <p>FPGA Developer: <a href="http://www.fpgadeveloper.com/2018/03/how-to-accelerate-a-python-function-with-pynq.html">Accelerate FIR function</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 <div class="row t60">
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal9.png" alt=""></center>
-        <p>XUP China Summer School: <a href="https://github.com/ZhangYuQAQ/Hardware-Acceleration-Circuit-Design-of-Object-Detection-Network-Based-on-FPGA">iSmart2 PYNQ Hardware </a></p>
+        <center><img src="{{ site.urlimg }}tr5.png" alt=""></center>
+        <p>Video: <a href="https://www.youtube.com/watch?v=UBsCNPWudww">Control custom IP using GPIO</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal10.png" alt=""></center>
-        <p>XUP China Summer School: <a href="https://github.com/WilliamsCeng/02Hero">AES Encryption/Decryption</a></p>
+        <center><img src="{{ site.urlimg }}tr6.png" alt=""></center>
+        <p>Video: <a href="https://www.youtube.com/watch?v=LomArt-hi4M">Add existing IP to a PYNQ overlay</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal11.png" alt=""></center>
-        <p>Southeast University, China; Xilinx China: <a href="https://github.com/Siudya/ORB_FPGA">PYNQ ORB feature extractor</a></p>
+        <center><img src="{{ site.urlimg }}tr7.png" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ_RFSOC_Workshop">PYNQ RFSoC tutorial workshop</a></p>
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal12.gif" alt=""></center>
-        <p>PYNQ gesture recognition: <a href="https://github.com/linxiaobo110/rps_u96">University of Science and Technology Beijing, Xilinx China</a></p>
+        <center><img src="{{ site.urlimg }}tr8.gif" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ_Bootcamp/">PYNQ bootcamp (High school level)</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 <div class="row t60">
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal13.png" alt=""></center>
-        <p>Xilinx University Program: <a href="https://github.com/xupsh/pynq-respeaker">PYNQ respeaker</a></p>
+        <center><img src="{{ site.urlimg }}tr9.png" alt=""></center>
+        <p><a href="https://github.com/MakarenaLabs/Xilinx-FPGA-HLS-PYNQ-ALVEO-Flow">Zynq, and Alveo video tutorials for PYNQ</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal14.png" alt=""></center>
-        <p>Xilinx University Program China: <a href="https://github.com/xupsh/Pynq-CV-OV5640">PYNQ CV OV5640</a></p>
+        <center><img src="{{ site.urlimg }}tr10.png" alt=""></center>
+        <p>Ryan Kastner, UCSD: <a href="https://pp4fpgas.readthedocs.io/">Parallel Programming for FPGAs: PYNQ Projects and Labs</a></p>
     </div><!-- /.medium-6.columns -->
 
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal15.png" alt=""></center>
-        <p>Xilinx University Program China: <a href="https://github.com/xupsh/pynq-sense-hat">PYNQ Sense Hat</a></p>
-    </div><!-- /.medium-6.columns -->
-
-        <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal16.png" alt=""></center>
-        <p>Jiangnan University, China: <a href="https://github.com/OpenHEC/SNN-simulator-on-PYNQcluster">SNN Simulator on PYNQ Cluster</a></p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
 
 <div class="row t60">
     <div class="medium-3 columns">
