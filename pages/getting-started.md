@@ -119,8 +119,4 @@ The following rootfs files can be used for rebuilding an image for a custom boar
 <tr><td>Dimensions</td><td>3.44” x 5.51” (87mm x 140mm)</td></tr>
 </tbody></table><a href="https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html" title="See the TUL Wwebpage"><strong>TUL Webpage&nbsp;›</strong></a></p></div>
 
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
-
-
  [1]: {{ site.url }}{{ site.baseurl }}/documentation/
