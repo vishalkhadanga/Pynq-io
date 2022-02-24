@@ -15,9 +15,7 @@
   side: left
   dropdown:
   - title: "PYNQ Community Projects"
-    url: "/design/portfolio/"
-  - title: "PYNQ"
-    url: "/design/page-fullwidth/"
+    url: "/design/pynq-community-projects/"
   - title: "Header with image and color"
     url: "/design/header-image-color/"
   - title: "gal"
@@ -29,21 +27,13 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Source Code
   url: "/documentation/"
   side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
-- title: Blog
+- title: Support
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
