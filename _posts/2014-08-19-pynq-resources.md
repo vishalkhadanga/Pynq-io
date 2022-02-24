@@ -34,7 +34,7 @@ PYNQ can be used with <a href="https://www.xilinx.com/products/boards-and-kits/a
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}alv4.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}alv4.png" alt=""></center>
         <p><a href="https://github.com/Xilinx/ResNet50-PYNQ/">ResNet50 Image classification with FINN</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
