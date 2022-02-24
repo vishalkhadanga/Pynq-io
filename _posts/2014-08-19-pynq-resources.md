@@ -115,5 +115,75 @@ For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.
         <center><img src="" alt=""></center>
         <p><a href=""></a></p>
     </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
 
 
+# Example Notebooks
+
+A selection of notebook examples are shown below that are included in the PYNQ image. The notebooks contain live code, and generated output from the code can be saved in the notebook. Notebooks can be viewed as webpages, or opened on a Pynq enabled board where the code cells in a notebook can be executed. 
+
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n1.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/boards/Pynq-Z1/base/notebooks/pmod/pmod_adc.ipynb">ADC Waveforms</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n2.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/boards/Pynq-Z1/base/notebooks/pmod/pmod_dac_adc.ipynb">DAC ADC Example</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n3.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/pynq/notebooks/common/overlay_download.ipynb">Downloading Overlays</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n4.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/boards/Pynq-Z1/base/notebooks/pmod/pmod_grove_adc.ipynb">Grove ADC</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n5.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/tree/v1.4/Pynq-Z1/notebooks/examples/arduino_analog.ipynb">Arduino Analog Example</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n6.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/tree/v1.4/Pynq-Z1/notebooks/examples/opencv_filters_webcam.ipynb">OpenCV Software Filters</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n7.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/boards/Pynq-Z1/base/notebooks/arduino/arduino_grove_ledbar.ipynb">Grove LED Bar</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n8.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/boards/Pynq-Z1/base/notebooks/video/opencv_face_detect_hdmi.ipynb">OpenCV Face Detection</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n9.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/boards/Pynq-Z1/base/notebooks/audio/audio_playback.ipynb">PYNQ Audio</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n10.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/pynq/notebooks/common/usb_webcam.ipynb">USB Webcam</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n11.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/boards/Pynq-Z1/base/notebooks/pmod/pmod_grove_tmp.ipynb">Shell Commands</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}n12.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/PYNQ/blob/v2.0/pynq/notebooks/common/usb_wifi.ipynb">USB Wifi</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
