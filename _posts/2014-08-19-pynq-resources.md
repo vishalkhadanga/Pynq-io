@@ -49,6 +49,8 @@ FINN makes extensive use of PYNQ as a prototyping platform.
 
 For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.io/finn</a>
 
+# Tutorials and Other Resources
+
 <div class="row t60">
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}gal4.gif" alt=""></center>
