@@ -39,6 +39,15 @@ PYNQ can be used with <a href="https://www.xilinx.com/products/boards-and-kits/a
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+# Machine Learning on Xilinx FPGAs with FINN
+
+PYNQ has been widely used for machine learning research and prototyping.
+
+FINN, an experimental framework from Xilinx Research Labs to explore deep neural network inference on FPGAs. It specifically targets quantized neural networks, with emphasis on generating dataflow-style architectures customized for each network. 
+
+FINN makes extensive use of PYNQ as a prototyping platform. 
+
+For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.io/finn</a>
 
 <div class="row t60">
     <div class="medium-3 columns">
