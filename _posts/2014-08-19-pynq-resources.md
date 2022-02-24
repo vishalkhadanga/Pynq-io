@@ -106,4 +106,14 @@ For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.
         <p>Ryan Kastner, UCSD: <a href="https://pp4fpgas.readthedocs.io/">Parallel Programming for FPGAs: PYNQ Projects and Labs</a></p>
     </div><!-- /.medium-6.columns -->
 
+    <div class="medium-3 columns">
+        <center><img src="" alt=""></center>
+        <p><a href=""></a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="" alt=""></center>
+        <p><a href=""></a></p>
+    </div><!-- /.medium-6.columns -->
+
 
