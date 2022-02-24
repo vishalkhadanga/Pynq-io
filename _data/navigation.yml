@@ -18,14 +18,6 @@
     url: "/design/pynq-community-projects/"
   - title: "PYNQ Resources"
     url: "/design/pynq-resources/"
-  - title: "gal"
-    url: "/design/gallery/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
 - title: Source Code
   url: "/documentation/"
