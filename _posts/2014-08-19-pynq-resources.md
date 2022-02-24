@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "PYNQ Community Projects"
+title:  "Other PYNQ Resources"
 subheadline:
 teaser: 
 categories:
@@ -13,26 +13,29 @@ The PYNQ embedded community page highlights examples of projects for Zynq based 
 Examples include image and video processing, robot and industrial control, machine learning, RISC-V prototyping, RFSoC QPSK and more. 
 
 <!--more-->
+# PYNQ Alveo community porjects and tutorials
+
+PYNQ can be used with <a href="https://www.xilinx.com/products/boards-and-kits/alveo.html">Alveo accelerator boards</a> and <a href="https://aws.amazon.com/ec2/instance-types/f1/">AWS-F1</a>. The following examples can be installed on the host computer and run on the Alveo board or on an AWS-F1 instance. 
 
 <div class="row t60">
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
-        <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
+        <center><img src="{{ site.urlimg }}alv1.png" alt=""></center>
+        <p><a href="https://github.com/Xilinx/Alveo-PYNQ">Introduction to PYNQ with Alveo</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
-        <p>Politechnico di Milano: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">PYNQ Plaster - Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
+        <center><img src="{{ site.urlimg }}alv2.png" alt=""></center>
+        <p><a href="https://github.com/Xilinx/Alveo-PYNQ/tree/master/pynq_alveo_examples/notebooks/data_compression">Vitis acceleration library: Data Compression example</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
-        <p>University of Zaragoza: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Sensorial fusion via QNNs</a></p>
+        <center><img src="{{ site.urlimg }}alv3.png" alt=""></center>
+        <p><a href="https://github.com/Xilinx/5point-PYNQ">5-Point Relative Pose Problem</a></p>
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal8.jpg" alt=""></center>
-        <p>Strathclyde University: <a href="https://github.com/smpis/PyPix">Pypix - 3D scene reconstruction based on stereo vision</a></p>
+        <center><img src="{{ site.urlimg }}alv4.jpg" alt=""></center>
+        <p><a href="https://github.com/Xilinx/ResNet50-PYNQ/">ResNet50 Image classification with FINN</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
