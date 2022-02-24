@@ -53,7 +53,7 @@ For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.
 
 <div class="row t60">
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr1.gif" alt=""></center>
+        <center><img src="{{ site.urlimg }}tr1.png" alt=""></center>
         <p><a href="https://github.com/Xilinx/PYNQ_Workshop">PYNQ Tutorial workshop</a></p>
     </div><!-- /.medium-6.columns -->
 
@@ -68,7 +68,7 @@ For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr4.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}tr4.png" alt=""></center>
         <p>FPGA Developer: <a href="http://www.fpgadeveloper.com/2018/03/how-to-accelerate-a-python-function-with-pynq.html">Accelerate FIR function</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
@@ -90,7 +90,7 @@ For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.
     </div><!-- /.medium-6.columns -->
 
         <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr8.gif" alt=""></center>
+        <center><img src="{{ site.urlimg }}tr8.png" alt=""></center>
         <p><a href="https://github.com/Xilinx/PYNQ_Bootcamp/">PYNQ bootcamp (High school level)</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
@@ -107,46 +107,3 @@ For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.
     </div><!-- /.medium-6.columns -->
 
 
-<div class="row t60">
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal17.png" alt=""></center>
-        <p>Southeast University, China: <a href="https://github.com/Springbone/CC-Cam">CC-Cam a PYNQ diffuser camera</a></p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal18.gif" alt=""></center>
-        <p>University of Strathclyde: <a href="https://github.com/strath-sdr/rfsoc_sam">Open Source RFSoC Spectrum Analyzer</a></p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal19.gif" alt=""></center>
-        <p>Mahan Bastani, Nolan Chang, Atsushi Domyo, Daniel Kizito: <a href="https://github.com/Reconfigurable-Computing-CalPoly-Pomona/Motion-Controller">PYNQ S-Curve motion controller</a></p>
-    </div><!-- /.medium-6.columns -->
-
-        <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal20.png" alt=""></center>
-        <p>Julian Bartolone: <a href="https://www.hackster.io/julian-bartolone2/ultra96-facial-recognition-deadbolt-using-pynq-0fe8e9">Ultra96 Facial Recognition Deadbolt Using PYNQ</a></p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
-
-<div class="row t60">
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal21.gif" alt=""></center>
-        <p>Adam Taylor: <a href="https://www.hackster.io/adam-taylor/pynq-controlled-neopixel-led-cube-92a1c1">PYNQ Controlled NeoPixel LED Cube</a></p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal22.png" alt=""></center>
-        <p>Giorgos Tzanos: <a href="https://github.com/AcceleratedCloud/SDSoC/tree/master/Gaussian%20NaiveBayes">Gaussian Naive Bayes NTUA</a></p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal23.gif" alt=""></center>
-        <p>Rajeev Patwari, Nathalie Chan, King Choy: <a href="https://www.hackster.io/rajeev-patwari-ultra96-2019/ultra96-fpga-accelerated-parallel-n-particle-gravity-sim-87f45e">N-Particle Gravity Simulation on Ultra96</a></p>
-    </div><!-- /.medium-6.columns -->
-
-        <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal24.png" alt=""></center>
-        <p>University Strathclyde: <a href="https://github.com/strath-sdr/rfsoc_qpsk">PYNQ RFSoC - QPSK demo on ZCU111</a></p>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
