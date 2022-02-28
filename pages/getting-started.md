@@ -18,14 +18,14 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 ## PYNQ Boards
 
 <div class="row t60">
-    <div class="large-6 columns">
+    <div class="Large-6 columns">
         <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
         <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
         <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
         <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
     </div><!-- /.medium-6.columns -->
 
-    <div class="large-6 columns">
+    <div class="Large-6 columns">
         <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
         <p>Politechnico di Milano: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">PYNQ Plaster - Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
     </div><!-- /.medium-6.columns -->
