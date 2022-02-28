@@ -20,7 +20,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 <div class="row t60">
     <div class="Large-8 columns">
         <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
-        <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
+        <p><h1>PYNQ-Z2</h1><a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
         <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
         <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
     </div><!-- /.large-8.columns -->
