@@ -15,6 +15,104 @@ PYNQ supports Zynq based boards (Zynq, Zynq Ultrascale+, Zynq RFSoC), <a href="h
 
 See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_getting_started.html">PYNQ Alveo Getting Started guide</a> for details on installing PYNQ for use with Alveo and AWS-F1. 
 
+## PYNQ Boards
+
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
+        <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
+        <p>Politechnico di Milano: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">PYNQ Plaster - Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
+        <p>University of Zaragoza: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Sensorial fusion via QNNs</a></p>
+    </div><!-- /.medium-6.columns -->
+
+        <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal8.jpg" alt=""></center>
+        <p>Strathclyde University: <a href="https://github.com/smpis/PyPix">Pypix - 3D scene reconstruction based on stereo vision</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal4.gif" alt=""></center>
+        <p>Fred Kellerman: <a href="https://github.com/FredKellerman/pynq-juliabrot">PYNQ fractal factory</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal5.png" alt=""></center>
+        <p>XUP China Summer School: <a href="https://github.com/XilinxCannonFodderTeam/smart_lock">PYNQ Smart Lock</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal6.png" alt=""></center>
+        <p>XUP China Summer School: <a href="https://github.com/PaiPai121/Defocus-Image-Deblurring-Based-on-PYNQ">Defocus Image Deblurring</a></p>
+    </div><!-- /.medium-6.columns -->
+
+        <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal7.jpg" alt=""></center>
+        <p>XUP China Summer School: <a href="https://github.com/Microdent/Handwritten_Mathematical_Calculator_on_FPGA">Handwritten Mechanical Calculator</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal9.png" alt=""></center>
+        <p>XUP China Summer School: <a href="https://github.com/ZhangYuQAQ/Hardware-Acceleration-Circuit-Design-of-Object-Detection-Network-Based-on-FPGA">iSmart2 PYNQ Hardware </a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal10.png" alt=""></center>
+        <p>XUP China Summer School: <a href="https://github.com/WilliamsCeng/02Hero">AES Encryption/Decryption</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal11.png" alt=""></center>
+        <p>Southeast University, China; Xilinx China: <a href="https://github.com/Siudya/ORB_FPGA">PYNQ ORB feature extractor</a></p>
+    </div><!-- /.medium-6.columns -->
+
+        <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal12.gif" alt=""></center>
+        <p>PYNQ gesture recognition: <a href="https://github.com/linxiaobo110/rps_u96">University of Science and Technology Beijing, Xilinx China</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal13.png" alt=""></center>
+        <p>Xilinx University Program: <a href="https://github.com/xupsh/pynq-respeaker">PYNQ respeaker</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal14.png" alt=""></center>
+        <p>Xilinx University Program China: <a href="https://github.com/xupsh/Pynq-CV-OV5640">PYNQ CV OV5640</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal15.png" alt=""></center>
+        <p>Xilinx University Program China: <a href="https://github.com/xupsh/pynq-sense-hat">PYNQ Sense Hat</a></p>
+    </div><!-- /.medium-6.columns -->
+
+        <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal16.png" alt=""></center>
+        <p>Jiangnan University, China: <a href="https://github.com/OpenHEC/SNN-simulator-on-PYNQcluster">SNN Simulator on PYNQ Cluster</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t60">
+    <div class="medium-3 columns">
+        <center><img src="{{ site.urlimg }}gal17.png" alt=""></center>
+        <p>Southeast University, China: <a href="https://github.com/Springbone/CC-Cam">CC-Cam a PYNQ diffuser camera</a></p>
+    </div><!-- /.medium-6.columns -->
+
+
 ## Downloadable PYNQ Images
 
 If you have a Zynq board, you need a PYNQ SD card image to get started. You can download a pre-compiled PYNQ image from the table below. If an image is not available for your board, you can build your own SD card image (see details below).
