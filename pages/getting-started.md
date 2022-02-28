@@ -34,7 +34,8 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
          <td><a href="https://bit.ly/pynqz2_2_7">v2.7</a> </td>
          <td><a href="https://pynq.readthedocs.io/en/v2.6.1/getting_started/other_boards.html">PYNQ setup guide</a></td>
          <td><a href="https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html">TUL Pynq-Z2</a></td>
-         </tr></p>
+         </tr>
+         </table></p>
     </div><!-- /.large-8.columns -->
 </div><!-- /.row -->
 
