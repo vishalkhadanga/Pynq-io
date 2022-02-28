@@ -91,5 +91,11 @@ format: frontpage
             {% endfor %}
         </div><!-- /.medium-5.columns -->
 
+
+        <div class="medium-6 columns">
+            <p><strong>{{ site.data.language.more_articles }}</strong></p>
+            {% include list-posts entries='3' offset='1' %}
+        </div><!-- /.medium-7.columns -->
+    </div><!-- /.row -->
 {% endunless %}
 
