@@ -27,15 +27,20 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 
     <div class="Large-8 columns">
         <center><img src="{{ site.urlimg }}01_PYNQ-ZU.png" alt=""></center>
-        <p><table class="pynq_images">
-         <tbody><tr><th>Board</th><th>SD card image</th><th>Documentation</th><th>Vendor webpage</th></tr>
+        <table>
+         <tbody>
          <tr>
-         <td>PYNQ-Z2</td>
-         <td><a href="https://bit.ly/pynqz2_2_7">v2.7</a> </td>
-         <td><a href="https://pynq.readthedocs.io/en/v2.6.1/getting_started/other_boards.html">PYNQ setup guide</a></td>
-         <td><a href="https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html">TUL Pynq-Z2</a></td>
+         <td>SD Card Image</td>
+         <td><a href="https://bit.ly/pynqz2_2_7">v2.7</a></td>
          </tr>
-         </table></p>
+         <tr>
+         <td>Documentation</td>
+         <td><a href="https://pynq.readthedocs.io/en/v2.6.1/getting_started/other_boards.html">PYNQ Setup Guide</a></td>
+         </tr>
+         <tr>
+         <td>Vendor Webpage</td>
+         <td><a href="https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html">TUL PYNQ-Z2</a></td>
+        </table>
     </div><!-- /.large-8.columns -->
 </div><!-- /.row -->
 
