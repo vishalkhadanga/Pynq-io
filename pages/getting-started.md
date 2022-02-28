@@ -19,10 +19,10 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 
 <div class="row t60">
     <div class="Large-8 columns">
-        <center><img src="{{ site.urlimg }}gal1.jpg" alt=""></center>
-        <p><h3>PYNQ-Z2</h3><a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
-        <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
-        <p>Strathclyde University: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">Support vector machines on PYNQ</a></p>
+        <center><img src="{{ site.urlimg }}PYNQ.jpg" alt=""></center>
+        <p><h3>PYNQ-Z2</h3></p>
+        <p>SD Card Image: <a href="https://bit.ly/pynqz2_2_7">v2.7</a></p>
+        <p>Documentation: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">PYNQ Setup Guide</a></p>
     </div><!-- /.large-8.columns -->
 
     <div class="Large-8 columns">
