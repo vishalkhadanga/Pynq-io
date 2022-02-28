@@ -19,7 +19,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 
 <div class="row t60">
     <div class="Large-8 columns">
-        <center><img src="{{ site.urlimg }}PYNQ.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}PYNQ.JPG" alt=""></center>
         <p><h3>PYNQ-Z2</h3></p>
         <p>SD Card Image: <a href="https://bit.ly/pynqz2_2_7">v2.7</a></p>
         <p>Documentation: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">PYNQ Setup Guide</a></p>
