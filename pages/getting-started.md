@@ -26,7 +26,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
     </div><!-- /.large-8.columns -->
 
     <div class="Large-8 columns">
-        <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}01_PYNQ-ZU.png" alt=""></center>
         <p>Politechnico di Milano: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">PYNQ Plaster - Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
     </div><!-- /.large-8.columns -->
 </div><!-- /.row -->
