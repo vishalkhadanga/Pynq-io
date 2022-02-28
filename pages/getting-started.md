@@ -29,16 +29,6 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
         <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
         <p>Politechnico di Milano: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">PYNQ Plaster - Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
     </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal3.jpg" alt=""></center>
-        <p>University of Zaragoza: <a href="https://github.com/eneriz-daniel/sensorialfusionQNNs">Sensorial fusion via QNNs</a></p>
-    </div><!-- /.medium-6.columns -->
-
-        <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal8.jpg" alt=""></center>
-        <p>Strathclyde University: <a href="https://github.com/smpis/PyPix">Pypix - 3D scene reconstruction based on stereo vision</a></p>
-    </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 
