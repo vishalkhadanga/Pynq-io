@@ -27,7 +27,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 
     <div class="Large-8 columns">
         <center><img src="{{ site.urlimg }}01_PYNQ-ZU.png" alt=""></center>
-         <table>
+         <table width="100%">
          <tbody>
          <tr>
          <td>SD Card Image</td>
