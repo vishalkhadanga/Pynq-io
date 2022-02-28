@@ -70,11 +70,6 @@ format: frontpage
             <p class="text-right caption">
                 <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
             </p>
-            {% endif %}
-            {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
-            {% endif %}
-            {% endfor %}
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 
