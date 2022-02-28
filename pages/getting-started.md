@@ -27,7 +27,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 
     <div class="Large-8 columns">
         <center><img src="{{ site.urlimg }}01_PYNQ-ZU.png" alt=""></center>
-        <table>
+      <table>
          <tbody>
          <tr>
          <td>SD Card Image</td>
@@ -40,7 +40,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
          <tr>
          <td>Vendor Webpage</td>
          <td><a href="https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html">TUL PYNQ-Z2</a></td>
-        </table>
+      </table>
     </div><!-- /.large-8.columns -->
 </div><!-- /.row -->
 
