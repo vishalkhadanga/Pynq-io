@@ -21,13 +21,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
     <div class="Large-8 columns">
         <center><img src="{{ site.urlimg }}PYNQ.JPG" alt=""></center>
         <p><h3>PYNQ-Z2</h3></p>
-        <p>SD Card Image: <a href="https://bit.ly/pynqz2_2_7">v2.7</a></p>
-        <p>Documentation: <a href="https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020">PYNQ Setup Guide</a></p>
-    </div><!-- /.large-8.columns -->
-
-    <div class="Large-8 columns">
-        <center><img src="{{ site.urlimg }}01_PYNQ-ZU.png" alt=""></center>
-         <table width="100%">
+        <table width="100%">
          <tbody>
          <tr>
          <td>SD Card Image</td>
@@ -40,6 +34,27 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
          <tr>
          <td>Vendor Webpage</td>
          <td><a href="https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html">TUL PYNQ-Z2</a></td>
+         </tr>
+         </tbody>
+         </table>
+    </div><!-- /.large-8.columns -->
+
+    <div class="Large-8 columns">
+        <center><img src="{{ site.urlimg }}01_PYNQ-ZU.png" alt=""></center>
+        <p><h3>PYNQ-Z1</h3></p>
+         <table width="100%">
+         <tbody>
+         <tr>
+         <td>SD Card Image</td>
+         <td><a href="https://bit.ly/pynqz1_2_7">v2.7</a></td>
+         </tr>
+         <tr>
+         <td>Documentation</td>
+         <td><a href="https://pynq.readthedocs.io/en/v2.6.1/getting_started/pynq_z1_setup.html">PYNQ Setup Guide</a></td>
+         </tr>
+         <tr>
+         <td>Vendor Webpage</td>
+         <td><a href="https://store.digilentinc.com/pynq-z1-python-productivity-for-zynq-7000-arm-fpga-soc/">Digilent PYNQ-Z1</a></td>
          </tr>
          </tbody>
          </table>
