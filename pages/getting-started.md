@@ -6,7 +6,7 @@ subheadline         :
 teaser              : 
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/getting-starteda/"
+permalink           : "/getting-started/"
 ---
 
 ## Development Boards

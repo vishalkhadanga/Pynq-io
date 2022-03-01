@@ -5,7 +5,7 @@ title: "What is PYNQ"
 subheadline: 
 header:
    image_fullwidth: "Topimage.jpg"
-permalink: "/aboutpynq/"
+permalink: 
 ---
 
 
