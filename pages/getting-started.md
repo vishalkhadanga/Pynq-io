@@ -104,20 +104,20 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 
     <div class="Large-6 columns">
         <center><img src="{{ site.urlimg }}01_PYNQ-ZU.png" alt=""></center>
-        <p><h3>PYNQ-Z1</h3></p>
+        <p><h3>ZCU104</h3></p>
          <table width="100%">
          <tbody>
          <tr>
          <td>SD Card Image</td>
-         <td><a href="https://bit.ly/pynqz1_2_7">v2.7</a></td>
+         <td><a href="https://bit.ly/zcu104_2_7">v2.7</a></td>
          </tr>
          <tr>
          <td>Documentation</td>
-         <td><a href="https://pynq.readthedocs.io/en/v2.6.1/getting_started/pynq_z1_setup.html">PYNQ Setup Guide</a></td>
+         <td><a href="https://pynq.readthedocs.io/en/v2.6.1/getting_started/zcu104_setup.html">PYNQ Setup Guide</a></td>
          </tr>
          <tr>
          <td>Vendor Webpage</td>
-         <td><a href="https://store.digilentinc.com/pynq-z1-python-productivity-for-zynq-7000-arm-fpga-soc/">Digilent PYNQ-Z1</a></td>
+         <td><a href="https://www.xilinx.com/products/boards-and-kits/zcu104.html">ZCU104</a></td>
          </tr>
          </tbody>
          </table>
