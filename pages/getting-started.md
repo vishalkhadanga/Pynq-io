@@ -103,7 +103,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
     </div><!-- /.large-6.columns -->
 
     <div class="Large-6 columns">
-        <center><img src="{{ site.urlimg }}01_PYNQ-ZU.png" alt=""></center>
+        <center><img src="{{ site.urlimg }}zcu104.jpg" alt=""></center>
         <p><h3>ZCU104</h3></p>
          <table width="100%">
          <tbody>
