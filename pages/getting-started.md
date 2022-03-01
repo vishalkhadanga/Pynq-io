@@ -19,7 +19,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 
 If you have a Zynq board, you need a PYNQ SD card image to get started. You can download a pre-compiled PYNQ image from the table below. If an image is not available for your board, you can build your own SD card image (see details below).
 
-<table class="pynq_images">
+<center><table class="pynq_images">
 <tbody><tr><th>Board</th><th>SD card image</th><th>Documentation</th><th>Vendor webpage</th></tr>
   <tr>
   <td>PYNQ-Z2</td>
@@ -88,7 +88,7 @@ If you have a Zynq board, you need a PYNQ SD card image to get started. You can 
   <td><a href="https://github.com/aldec/TySOM-3A-ZU19EG">GitHub project page</a></td>
   <td><a href="https://www.aldec.com/en/products/emulation/tysom_boards/zynq_ultrascale_mpsoc_boards/tysom_3a">Aldec TySOM-3A-ZU19EG</a></td>
  </tr>
-</tbody></table>
+</tbody></table></center>
 *For the Kria KV260, follow the guide for the Ubuntu image and then follow the Kria PYNQ setup instructions to install PYNQ.
 
 ## Build a PYNQ SD Card Image
