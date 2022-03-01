@@ -117,7 +117,49 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
          </tr>
          <tr>
          <td>Vendor Webpage</td>
-         <td><a href="https://www.xilinx.com/products/boards-and-kits/zcu104.html">ZCU104</a></td>
+         <td><a href="https://www.xilinx.com/products/boards-and-kits/zcu104.html">Xilinx ZCU104</a></td>
+         </tr>
+         </tbody>
+         </table>
+    </div><!-- /.large-6.columns -->
+
+    <div class="Large-6 columns">
+        <center><img src="{{ site.urlimg }}96.jpg" alt=""></center>
+        <p><h3>Ultra96V2</h3></p>
+         <table width="100%">
+         <tbody>
+         <tr>
+         <td>SD Card Image</td>
+         <td><a href="https://bit.ly/u96v2_v2_7">v2.7</a></td>
+         </tr>
+         <tr>
+         <td>Documentation</td>
+         <td><a href="http://avnet.me/ultra96_pynq_docs">Avnet PYNQ Documentation</a></td>
+         </tr>
+         <tr>
+         <td>Vendor Webpage</td>
+         <td><a href="https://www.avnet.com/wps/portal/us/products/new-product-introductions/npi/aes-ultra96-v2/">Avnet Ultra96V2</a></td>
+         </tr>
+         </tbody>
+         </table>
+    </div><!-- /.large-6.columns -->
+
+    <div class="Large-6 columns">
+        <center><img src="{{ site.urlimg }}zcu104.jpg" alt=""></center>
+        <p><h3>Ultra96 (Legacy)</h3></p>
+         <table width="100%">
+         <tbody>
+         <tr>
+         <td>SD Card Image</td>
+         <td><a href="https://bit.ly/u96v1_2_7">v2.7</a></td>
+         </tr>
+         <tr>
+         <td>Documentation</td>
+         <td><a href="http://avnet.me/ultra96_pynq_docs">Avnet PYNQ Documentation</a></td>
+         </tr>
+         <tr>
+         <td>Vendor Webpage</td>
+         <td><a href="https://www.avnet.com/wps/portal/us/products/new-product-introductions/npi/aes-ultra96-v2/">Avnet Ultra96</a></td>
          </tr>
          </tbody>
          </table>
