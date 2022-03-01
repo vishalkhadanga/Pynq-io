@@ -124,7 +124,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
     </div><!-- /.large-6.columns -->
 
     <div class="Large-6 columns">
-        <center><img src="{{ site.urlimg }}96.jpg" alt=""></center>
+        <center><img src="{{ site.urlimg }}zcu104.jpg" alt=""></center>
         <p><h3>Ultra96V2</h3></p>
          <table width="100%">
          <tbody>
@@ -146,12 +146,12 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 
     <div class="Large-6 columns">
         <center><img src="{{ site.urlimg }}zcu104.jpg" alt=""></center>
-        <p><h3>Ultra96 (Legacy)</h3></p>
+        <p><h3>Ultra96V2</h3></p>
          <table width="100%">
          <tbody>
          <tr>
          <td>SD Card Image</td>
-         <td><a href="https://bit.ly/u96v1_2_7">v2.7</a></td>
+         <td><a href="https://bit.ly/u96v2_v2_7">v2.7</a></td>
          </tr>
          <tr>
          <td>Documentation</td>
