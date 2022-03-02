@@ -60,4 +60,64 @@ docs:
   college: PYNQ gesture recognition
   project: University of Science and Technology Beijing, Xilinx China
   url: https://github.com/linxiaobo110/rps_u96
-  
+
+- img: gal13.png
+  college: Xilinx University Program
+  project: PYNQ respeaker
+  url: https://github.com/xupsh/pynq-respeaker
+
+- img: gal14.png
+  college: Xilinx University Program China
+  project: PYNQ CV OV5640
+  url: https://github.com/xupsh/Pynq-CV-OV5640
+
+- img: gal15.png
+  college: Xilinx University Program China
+  project: PYNQ Sense Hat
+  url: https://github.com/xupsh/pynq-sense-hat
+
+- img: gal16.png
+  college: Jiangnan University, China
+  project: SNN Simulator on PYNQ Cluster
+  url: https://github.com/OpenHEC/SNN-simulator-on-PYNQcluster
+
+- img: gal17.png
+  college: Southeast University, China
+  project: CC-Cam a PYNQ diffuser camera
+  url: https://github.com/Springbone/CC-Cam
+
+- img: gal18.gif
+  college: University of Strathclyde
+  project: Open Source RFSoC Spectrum Analyzer
+  url: https://github.com/strath-sdr/rfsoc_sam
+
+- img: gal19.gif
+  college: Mahan Bastani, Nolan Chang, Atsushi Domyo, Daniel Kizito
+  project: PYNQ S-Curve motion controller
+  url: https://github.com/Reconfigurable-Computing-CalPoly-Pomona/Motion-Controller
+
+- img: gal20.png
+  college: Julian Bartolone
+  project: Ultra96 Facial Recognition Deadbolt Using PYNQ
+  url: https://www.hackster.io/julian-bartolone2/ultra96-facial-recognition-deadbolt-using-pynq-0fe8e9
+
+- img: gal21.gif
+  college: Adam Taylor
+  project: PYNQ Controlled NeoPixel LED Cube
+  url: https://www.hackster.io/adam-taylor/pynq-controlled-neopixel-led-cube-92a1c1
+
+- img: gal22.png
+  college: Giorgos Tzanos
+  project: Gaussian Naive Bayes NTUA
+  url: https://github.com/AcceleratedCloud/SDSoC/tree/master/Gaussian%20NaiveBayes
+
+- img: gal23.gif
+  college: Rajeev Patwari, Nathalie Chan, King Choy
+  project: N-Particle Gravity Simulation on Ultra96
+  url: https://www.hackster.io/rajeev-patwari-ultra96-2019/ultra96-fpga-accelerated-parallel-n-particle-gravity-sim-87f45e
+
+- img: gal24.png
+  college: University Strathclyde
+  project: PYNQ RFSoC - QPSK demo on ZCU111
+  url: https://github.com/strath-sdr/rfsoc_qpsk
+
