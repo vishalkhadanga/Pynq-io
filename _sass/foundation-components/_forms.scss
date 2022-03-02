@@ -106,11 +106,6 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
   textarea.columns { padding-#{$default-float}: ($form-spacing / 2); }
 }
 
-.pycom {
-  width: 200px;
-  height: 400px;
-}
-
 // @MIXIN
 //
 // We use this mixin to give all basic form elements their style
