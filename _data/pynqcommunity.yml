@@ -46,11 +46,6 @@ docs:
   project: AES Encryption/Decryption
   url: https://github.com/WilliamsCeng/02Hero
 
-- img: result.gif
-  college: PYNQ gesture recognition
-  project: University of Science and Technology Beijing, Xilinx China
-  url: https://github.com/linxiaobo110/rps_u96
-
 - img: gal13.png
   college: Xilinx University Program
   project: PYNQ respeaker
@@ -91,11 +86,6 @@ docs:
   project: Ultra96 Facial Recognition Deadbolt Using PYNQ
   url: https://www.hackster.io/julian-bartolone2/ultra96-facial-recognition-deadbolt-using-pynq-0fe8e9
 
-- img: gal21.gif
-  college: Adam Taylor
-  project: PYNQ Controlled NeoPixel LED Cube
-  url: https://www.hackster.io/adam-taylor/pynq-controlled-neopixel-led-cube-92a1c1
-
 - img: gal22.png
   college: Giorgos Tzanos
   project: Gaussian Naive Bayes NTUA
@@ -116,7 +106,17 @@ docs:
   project: Handwritten Mechanical Calculator
   url: https://github.com/Microdent/Handwritten_Mathematical_Calculator_on_FPGA
 
-- img: gal11.jpg
+- img: gal11.png
   college: Southeast University, China; Xilinx China
   project: PYNQ ORB feature extractor
   url: https://github.com/Siudya/ORB_FPGA
+
+- img: result.gif
+  college: PYNQ gesture recognition
+  project: University of Science and Technology Beijing, Xilinx China
+  url: https://github.com/linxiaobo110/rps_u96
+
+- img: gal21.gif
+  college: Adam Taylor
+  project: PYNQ Controlled NeoPixel LED Cube
+  url: https://www.hackster.io/adam-taylor/pynq-controlled-neopixel-led-cube-92a1c1
