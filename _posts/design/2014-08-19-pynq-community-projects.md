@@ -17,7 +17,7 @@ Examples include image and video processing, robot and industrial control, machi
 <div class="w3-row">
 
     {% for item in site.data.pynqcommunity.docs %}
-    <div height="300px" width="25%" class="medium-3 columns">
+    <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}{{ item.img }}"></center>
         <center><p><h5>{{ item.college }}: </h5><a href="{{ item.url }}">{{ item.project }}</a></p></center>
     </div><!-- /.medium-3.columns -->
