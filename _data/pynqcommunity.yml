@@ -116,7 +116,7 @@ docs:
   project: Handwritten Mechanical Calculator
   url: https://github.com/Microdent/Handwritten_Mathematical_Calculator_on_FPGA
 
-  - img: gal11.jpg
+- img: gal11.jpg
   college: Southeast University, China; Xilinx China
   project: PYNQ ORB feature extractor
   url: https://github.com/Siudya/ORB_FPGA
