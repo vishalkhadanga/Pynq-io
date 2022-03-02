@@ -36,11 +36,6 @@ docs:
   project: Defocus Image Deblurring
   url: https://github.com/PaiPai121/Defocus-Image-Deblurring-Based-on-PYNQ
 
-- img: gal7.jpg
-  college: XUP China Summer School
-  project: Handwritten Mechanical Calculator
-  url: https://github.com/Microdent/Handwritten_Mathematical_Calculator_on_FPGA
-
 - img: gal9.png
   college: XUP China Summer School
   project: iSmart2 PYNQ Hardware
@@ -50,11 +45,6 @@ docs:
   college: XUP China Summer School
   project: AES Encryption/Decryption
   url: https://github.com/WilliamsCeng/02Hero
-
-- img: ORB.jpg
-  college: Southeast University, China; Xilinx China
-  project: PYNQ ORB feature extractor
-  url: https://github.com/Siudya/ORB_FPGA
 
 - img: result.gif
   college: PYNQ gesture recognition
@@ -121,3 +111,12 @@ docs:
   project: PYNQ RFSoC - QPSK demo on ZCU111
   url: https://github.com/strath-sdr/rfsoc_qpsk
 
+- img: gal7.jpg
+  college: XUP China Summer School
+  project: Handwritten Mechanical Calculator
+  url: https://github.com/Microdent/Handwritten_Mathematical_Calculator_on_FPGA
+
+  - img: gal11.jpg
+  college: Southeast University, China; Xilinx China
+  project: PYNQ ORB feature extractor
+  url: https://github.com/Siudya/ORB_FPGA
