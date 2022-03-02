@@ -18,11 +18,11 @@ Examples include image and video processing, robot and industrial control, machi
 <div class="row t60">
 
     {% for item in site.data.pynqcommunity.docs %}
-    <div class="medium-3 columns">
+    <div class="medium-2 columns">
         <center><img src="{{ site.urlimg }}{{ item.img }}"></center>
         <center><p><h5>{{ item.college }}: </h5><a href="{{ item.url }}">{{ item.project }}</a></p></center>
         <h1></h1>
-    </div><!-- /.medium-3.columns -->
+    </div><!-- /.medium-2.columns -->
     {% endfor %}
     
 </div><!-- /.row -->
