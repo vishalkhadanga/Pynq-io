@@ -5,4 +5,54 @@ docs:
   college: Strathclyde University
   project: Support vector machines on PYNQ
   url: https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020
+
+- img: gal2.jpg
+  college: Politechnico di Milano
+  project: PYNQ Plaster - Abandoned object detection using map-reduce on multi-FPGA cluster
+  url: https://bitbucket.org/necst/xohw2020_plaster_public
+
+- img: gal3.jpg
+  college: University of Zaragoza
+  project: Sensorial fusion via QNNs
+  url: https://github.com/eneriz-daniel/sensorialfusionQNNs
+
+- img: gal8.jpg
+  college: Strathclyde University
+  project: Pypix - 3D scene reconstruction based on stereo vision
+  url: https://github.com/smpis/PyPix
+
+- img: gal4.gif
+  college: Fred Kellerman
+  project: https://github.com/FredKellerman/pynq-juliabrot
+  url: PYNQ fractal factory
+
+- img:
+  college:
+  project:
+  url:
+
+- img:
+  college:
+  project:
+  url:
+
+- img:
+  college:
+  project:
+  url:
+
+- img:
+  college:
+  project:
+  url:
+
+- img:
+  college:
+  project:
+  url:
+
+- img:
+  college:
+  project:
+  url:
   
