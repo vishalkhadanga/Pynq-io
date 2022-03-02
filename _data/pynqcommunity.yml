@@ -56,7 +56,7 @@ docs:
   project: PYNQ ORB feature extractor
   url: https://github.com/Siudya/ORB_FPGA
 
-- img: gal12.gif
+- img: result.gif
   college: PYNQ gesture recognition
   project: University of Science and Technology Beijing, Xilinx China
   url: https://github.com/linxiaobo110/rps_u96
