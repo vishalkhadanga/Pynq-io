@@ -1,0 +1,8 @@
+docs_list_title: pynq-community-projects
+docs:
+  
+- img: gal1.jpg
+  college: Strathclyde University
+  project: Support vector machines on PYNQ
+  url: https://github.com/RyanMan1/PYNQ-SVM-OpenHW-2020
+  
