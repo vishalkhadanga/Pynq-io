@@ -13,7 +13,6 @@ The PYNQ embedded community page highlights examples of projects for Zynq based 
 Examples include image and video processing, robot and industrial control, machine learning, RISC-V prototyping, RFSoC QPSK and more. 
 
 <!--more-->
-## Liquid 
 
 <div class="row t60">
 
