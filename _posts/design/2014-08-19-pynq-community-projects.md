@@ -14,10 +14,10 @@ Examples include image and video processing, robot and industrial control, machi
 
 <!--more-->
 
-<div class="row t60">
+<div class="w3-row">
 
     {% for item in site.data.pynqcommunity.docs %}
-    <div class="medium-3 columns">
+    <div class="w3-col s4 w3-green w3-center">
         <center><img src="{{ site.urlimg }}{{ item.img }}"></center>
         <center><p><h5>{{ item.college }}: </h5><a href="{{ item.url }}">{{ item.project }}</a></p></center>
     </div><!-- /.medium-3.columns -->
