@@ -15,12 +15,12 @@ Examples include image and video processing, robot and industrial control, machi
 <!--more-->
 ## Liquid 
 
-{% for item in site.data.pynq.docs %}
+{% for item in site.data.pynqcommunity.docs %}
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}{{ item.img }}" alt=""></center>
         <p>{{ item.college }}: <a href="{{ item.url }}">{{ item.project }}</a></p>
     </div><!-- /.medium-6.columns -->
-    {% endfor %}
+{% endfor %}
 
 
 ## Solid
