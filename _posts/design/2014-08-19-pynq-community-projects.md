@@ -16,13 +16,13 @@ Examples include image and video processing, robot and industrial control, machi
 
 ## Liquid 
 <div class="row t60">
-{% for item in site.data.pynqcommunity.docs %}
+    {% for item in site.data.pynqcommunity.docs %}
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}{{ item.img }}" alt="">
         <h4>{{ item.college }}: <h4>
         <a href="{{ item.url }}">{{ item.project }}</a></center>
     </div><!-- /.medium-6.columns -->
-{% endfor %}
+    {% endfor %}
 </div><!-- /.row -->
 
 
