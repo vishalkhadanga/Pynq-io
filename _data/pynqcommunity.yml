@@ -26,33 +26,38 @@ docs:
   project: https://github.com/FredKellerman/pynq-juliabrot
   url: PYNQ fractal factory
 
-- img:
-  college:
-  project:
-  url:
+- img: gal5.png
+  college: XUP China Summer School
+  project: PYNQ Smart Lock
+  url: https://github.com/XilinxCannonFodderTeam/smart_lock
 
-- img:
-  college:
-  project:
-  url:
+- img: gal6.png
+  college: XUP China Summer School
+  project: Defocus Image Deblurring
+  url: https://github.com/PaiPai121/Defocus-Image-Deblurring-Based-on-PYNQ
 
-- img:
-  college:
-  project:
-  url:
+- img: gal7.jpg
+  college: XUP China Summer School
+  project: Handwritten Mechanical Calculator
+  url: https://github.com/Microdent/Handwritten_Mathematical_Calculator_on_FPGA
 
-- img:
-  college:
-  project:
-  url:
+- img: gal9.png
+  college: XUP China Summer School
+  project: iSmart2 PYNQ Hardware
+  url: https://github.com/ZhangYuQAQ/Hardware-Acceleration-Circuit-Design-of-Object-Detection-Network-Based-on-FPGA
 
-- img:
-  college:
-  project:
-  url:
+- img: gal10.png
+  college: XUP China Summer School
+  project: AES Encryption/Decryption
+  url: https://github.com/WilliamsCeng/02Hero
 
-- img:
-  college:
-  project:
-  url:
+- img: gal11.png
+  college: Southeast University, China; Xilinx China
+  project: PYNQ ORB feature extractor
+  url: https://github.com/Siudya/ORB_FPGA
+
+- img: gal12.gif
+  college: PYNQ gesture recognition
+  project: University of Science and Technology Beijing, Xilinx China
+  url: https://github.com/linxiaobo110/rps_u96
   
