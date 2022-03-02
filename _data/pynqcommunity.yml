@@ -51,7 +51,7 @@ docs:
   project: AES Encryption/Decryption
   url: https://github.com/WilliamsCeng/02Hero
 
-- img: gal11.png
+- img: res.png
   college: Southeast University, China; Xilinx China
   project: PYNQ ORB feature extractor
   url: https://github.com/Siudya/ORB_FPGA
