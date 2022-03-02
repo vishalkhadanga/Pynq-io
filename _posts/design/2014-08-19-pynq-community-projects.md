@@ -21,9 +21,7 @@ Examples include image and video processing, robot and industrial control, machi
     <div class="medium-3 columns">
         <center><img src="{{ site.urlimg }}{{ item.img }}"></center>
         <center><p><h5>{{ item.college }}: </h5><a href="{{ item.url }}">{{ item.project }}</a></p></center>
-        <p></p>
-        <p></p>
-        <p></p>
+        <h3></h3>
     </div><!-- /.medium-6.columns -->
     {% endfor %}
 </div><!-- /.row -->
