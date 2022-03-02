@@ -17,8 +17,8 @@ Examples include image and video processing, robot and industrial control, machi
 
 {% for item in site.data.pynq.docs %}
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}{{ site.img }}" alt=""></center>
-        <p>{{ site.college }}: <a href="{{ site.url }}">{{ site.project }}</a></p>
+        <center><img src="{{ site.urlimg }}{{ item.img }}" alt=""></center>
+        <p>{{ item.college }}: <a href="{{ item.url }}">{{ item.project }}</a></p>
     </div><!-- /.medium-6.columns -->
     {% endfor %}
 
@@ -27,7 +27,7 @@ Examples include image and video processing, robot and industrial control, machi
 <div class="row t60">
 
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}gal2.jpg" alt=""></center>
+        <center><img src="{{ item.urlimg }}gal2.jpg" alt=""></center>
         <p>Politechnico di Milano: <a href="https://bitbucket.org/necst/xohw2020_plaster_public">PYNQ Plaster - Abandoned object detection using map-reduce on multi-FPGA cluster</a></p>
     </div><!-- /.medium-6.columns -->
 
