@@ -8,6 +8,6 @@ header:
 permalink: "/pynq-community/"
 ---
 <ul>
-    <h3><a href="">PYNQ Embedded Community Projects</a> - </h3>
-    <h3><a href="">Other PYNQ Resources</a> - </h3>
+    <h3><a href="">PYNQ Embedded Community Projects</a></h3>
+    <h3><a href="">Other PYNQ Resources</a></h3>
 </ul>
