@@ -46,7 +46,7 @@ For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.
     <div class="medium-3 columns">
         <div class="imgcont"><center><img src="{{ site.urlimg }}{{ item.img }}"></center></div>
         <center><p><h5>{{ item.subtitle }}<a href="{{ item.url }}">{{ item.project }}</a></h5></p></center>
-    </div><!-- /.medium-6.columns -->
+    </div><!-- /.medium-3.columns -->
 {% endfor %}
 </div><!-- /.row -->
 
@@ -61,6 +61,6 @@ A selection of notebook examples are shown below that are included in the PYNQ i
     <div class="medium-3 columns">
         <div class="imgcont"><center><img src="{{ site.urlimg }}{{ item.img }}"></center></div>
         <center><p><h5><a href="{{ item.url }}">{{ item.project }}</a></h5></p></center>
-    </div><!-- /.medium-6.columns -->
+    </div><!-- /.medium-3.columns -->
 {% endfor %}
 </div><!-- /.row -->
