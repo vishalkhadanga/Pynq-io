@@ -19,7 +19,7 @@ Examples include image and video processing, robot and industrial control, machi
 
 {% for item in site.data.pynqcommunity.docs %}
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}{{ item.img }}"></center>
+        <div class="imgcont"><center><img src="{{ site.urlimg }}{{ item.img }}"></center></div>
         <center><p><h5>{{ item.college }}: </h5><a href="{{ item.url }}">{{ item.project }}</a></p></center>
     </div><!-- /.medium-6.columns -->
 {% endfor %}
