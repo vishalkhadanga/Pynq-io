@@ -23,9 +23,9 @@ docs:
 
 - img: gal4.gif
   college: Fred Kellerman
-  project: https://github.com/FredKellerman/pynq-juliabrot
-  url: PYNQ fractal factory
-
+  project: PYNQ fractal factory
+  url: https://github.com/FredKellerman/pynq-juliabrot
+  
 - img: gal5.png
   college: XUP China Summer School
   project: PYNQ Smart Lock
