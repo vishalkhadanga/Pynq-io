@@ -17,7 +17,9 @@ docs:
   project: ResNet50 Image classification with FINN
   url: https://github.com/Xilinx/ResNet50-PYNQ/
 
+
 docs_list_title: pynqtut
+docs:
 
 - img: tr1.png
   project: PYNQ Tutorial workshop
