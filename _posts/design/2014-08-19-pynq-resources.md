@@ -18,26 +18,15 @@ Examples include image and video processing, robot and industrial control, machi
 PYNQ can be used with <a href="https://www.xilinx.com/products/boards-and-kits/alveo.html">Alveo accelerator boards</a> and <a href="https://aws.amazon.com/ec2/instance-types/f1/">AWS-F1</a>. The following examples can be installed on the host computer and run on the Alveo board or on an AWS-F1 instance. 
 
 <div class="row t60">
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}alv1.png" alt=""></center>
-        <center><p><a href="https://github.com/Xilinx/Alveo-PYNQ">Introduction to PYNQ with Alveo</a></p></center>
-    </div><!-- /.medium-6.columns -->
 
+{% for item in site.data.pynqprojalveo.docs %}
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}alv2.png" alt=""></center>
-        <center><p><a href="https://github.com/Xilinx/Alveo-PYNQ/tree/master/pynq_alveo_examples/notebooks/data_compression">Vitis acceleration library: Data Compression example</a></p></center>
+        <div class="imgcont"><center><img src="{{ site.urlimg }}{{ item.img }}"></center></div>
+        <center><p><a href="{{ item.url }}"><h5>{{ item.project }}</h5></a></p></center>
     </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}alv3.png" alt=""></center>
-        <center><p><a href="https://github.com/Xilinx/5point-PYNQ">5-Point Relative Pose Problem</a></p></center>
-    </div><!-- /.medium-6.columns -->
-
-        <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}alv4.png" alt=""></center>
-        <center><p><a href="https://github.com/Xilinx/ResNet50-PYNQ/">ResNet50 Image classification with FINN</a></p></center>
-    </div><!-- /.medium-6.columns -->
+{% endfor %}
 </div><!-- /.row -->
+
 
 # Machine Learning on Xilinx FPGAs with FINN
 
