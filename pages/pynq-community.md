@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "Header"
+subheadline:
 title: "PYNQ Community"
 teaser: "See either of the links below:"
 header:
@@ -8,6 +8,6 @@ header:
 permalink: "/pynq-community/"
 ---
 <ul>
-    <p><a href="">PYNQ Embedded Community Projects</a> - </p>
-    <p><a href="">Other PYNQ Resources</a> - </p>
+    <h3><a href="">PYNQ Embedded Community Projects</a> - </h3>
+    <h3><a href="">Other PYNQ Resources</a> - </h3>
 </ul>
