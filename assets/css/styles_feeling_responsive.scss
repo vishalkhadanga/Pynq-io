@@ -48,6 +48,8 @@ sitemap:
 
 @import "11_syntax-highlighting.scss";
 
-.medium-3 {
-  height: 400px;
+.column, .columns{
+  .medium-3 {
+    height: 400px;
+  }
 }
