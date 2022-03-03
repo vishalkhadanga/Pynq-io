@@ -41,69 +41,13 @@ For more information see <a href="https://xilinx.github.io/finn/">xilinx.github.
 # Tutorials and Other Resources
 
 <div class="row t60">
+
+{% for item in site.data.pynqtut.docs %}
     <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr1.png" alt=""></center>
-        <center><p><a href="https://github.com/Xilinx/PYNQ_Workshop">PYNQ Tutorial workshop</a></p></center>
+        <div class="imgcont"><center><img src="{{ site.urlimg }}{{ item.img }}"></center></div>
+        <center><p><h5>{{ item.subtitle }}<a href="{{ item.url }}">{{ item.project }}</a></h5></p></center>
     </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr2.png" alt=""></center>
-        <center><p>FPGA Developer: <a href="http://www.fpgadeveloper.com/2018/03/create-a-custom-pynq-overlay-for-pynq-z1.html">HLS filter example</a></p></center>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr3.png" alt=""></center>
-        <center><p>Dustin Richmond: <a href="https://github.com/drichmond/PYNQ-HLS">PYNQ HLS Tutorial</a></p></center>
-    </div><!-- /.medium-6.columns -->
-
-        <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr4.png" alt=""></center>
-        <center><p>FPGA Developer: <a href="http://www.fpgadeveloper.com/2018/03/how-to-accelerate-a-python-function-with-pynq.html">Accelerate FIR function</a></p></center>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
-
-<div class="row t60">
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr5.png" alt=""></center>
-        <center><p>Video: <a href="https://www.youtube.com/watch?v=UBsCNPWudww">Control custom IP using GPIO</a></p></center>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr6.png" alt=""></center>
-        <center><p>Video: <a href="https://www.youtube.com/watch?v=LomArt-hi4M">Add existing IP to a PYNQ overlay</a></p></center>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr7.png" alt=""></center>
-        <center><p><a href="https://github.com/Xilinx/PYNQ_RFSOC_Workshop">PYNQ RFSoC tutorial workshop</a></p></center>
-    </div><!-- /.medium-6.columns -->
-
-        <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr8.png" alt=""></center>
-        <center><p><a href="https://github.com/Xilinx/PYNQ_Bootcamp/">PYNQ bootcamp (High school level)</a></p></center>
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
-
-<div class="row t60">
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr9.png" alt=""></center>
-        <center><p><a href="https://github.com/MakarenaLabs/Xilinx-FPGA-HLS-PYNQ-ALVEO-Flow">Zynq, and Alveo video tutorials for PYNQ</a></p></center>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="{{ site.urlimg }}tr10.png" alt=""></center>
-        <center><p>Ryan Kastner, UCSD: <a href="https://pp4fpgas.readthedocs.io/">Parallel Programming for FPGAs: PYNQ Projects and Labs</a></p></center>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="" alt=""></center>
-        <center><p><a href=""></a></p></center>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-3 columns">
-        <center><img src="" alt=""></center>
-        <center><p><a href=""></a></p></center>
-    </div><!-- /.medium-6.columns -->
+{% endfor %}
 </div><!-- /.row -->
 
 
