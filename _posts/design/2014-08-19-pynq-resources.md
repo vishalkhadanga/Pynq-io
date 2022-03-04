@@ -31,6 +31,7 @@ PYNQ can be used with <a href="https://www.xilinx.com/products/boards-and-kits/a
 # Machine Learning on Xilinx FPGAs with FINN
 
 <p> <a href="https://phlow.github.io/feeling-responsive/design/mediaelement_js/" title="Play Audio &amp; Video with media&shy;element.js"><img src="https://phlow.github.io/feeling-responsive/images/mediaplayer_js-thumb.jpg" class="alignleft" width="150" height="150" alt="Blog of Feeling Responsive"></a> Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of mediaelement.js. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8. <a href="https://phlow.github.io/feeling-responsive/design/mediaelement_js/" title="Read Play Audio &amp; Video with media&shy;element.js"><strong>Read More&nbsp;›</strong></a></p>
+<div></div>
 
 
 
