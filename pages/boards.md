@@ -12,7 +12,7 @@ permalink           : "/boards/"
 See our collection of PYNQ and PYNQ compatible boards!
 
 <div class="card">
-  <img src="zcu104.jpg" alt="ZCU104" style="width:100%">
+  <img src="{{ site.urlimg }}zcu104.jpg" alt="ZCU104" style="width:100%">
   <h1>ZCU104</h1>
   <p class="price">$price</p>
   <p>Some text about the board...</p>
