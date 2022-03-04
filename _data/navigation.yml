@@ -19,6 +19,10 @@
   - title: "PYNQ Resources"
     url: "/design/pynq-resources/"
 
+- title: "Boards"
+  url: "/boards/"
+  side: left
+
 - title: Source Code
   url: "/documentation/"
   side: left
