@@ -17,6 +17,6 @@ See our collection of PYNQ and PYNQ compatible boards!
   <h1>{{ item.board }}</h1>
   <p class="price">{{ item.subhead }}</p>
   <p>{{ item.info }}</p>
-  <p><button><a href="{{ item.url }}">See Vendor Website</a></button></p>
+  <p><button src="{{ item.url }}">See Vendor Website</button></p>
 </div>
 {% endfor %}
