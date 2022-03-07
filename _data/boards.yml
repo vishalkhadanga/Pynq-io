@@ -4,58 +4,7 @@ docs:
 - img: PYNQ-Z2.jpg
   board: PYNQ-Z2
   subhead: Xilinx ZYNQ XC7Z020-1CLG400C
-  info: 
-　• 650MHz dual-core Cortex-A9 processor
-　• DDR3 memory controller with 8 DMA channels and
-　　4 High Performance AXI3 Slave ports
-　• High-bandwidth peripheral controllers - 1G Ethernet,
-　　USB 2.0, SDIO
-　• Low-bandwidth peripheral controller -
-　　SPI, UART, CAN, I2C
-　• Programmable from JTAG, Quad-SPI flash,
-　　and MicroSD card
-　• Programmable logic equivalent to Artix-7 FPGA
-　　• 13,300 logic slices, each with four 6-input LUTs
-　　　and 8 flip-flops
-　　• 630 KB of fast block RAM
-　　• 4 clock management tiles, each with a phase
-　　　locked loop (PLL) and mixed-mode clock
-　　　manager (MMCM)
-　　• 220 DSP slices
-　　• On-chip analog-to-digital converter (XADC)
-Memory
-　• 512MB DDR3 with 16-bit bus @ 1050Mbps
-　• 16MB Quad-SPI Flash with factory programmed
-　　48-bit globally unique EUI-48/64™ compatible
-　　identifier
-　• MicroSD slot
-Power
-　• Powered from USB or 7V-15V external power source
-USB and Ethernet
-　• Gigabit Ethernet PHY
-　• Micro USB-JTAG Programming circuitry
-　• Micro USB-UART bridge
-　• USB 2.0 OTG PHY (supports host only)
-Audio and Video
-　• HDMI sink port (input)
-　• HDMI source port (output)
-　• I2S interface with 24bit DAC with 3.5mm TRRS jack
-　• Line-in with 3.5mm jack
-Switches, Push-buttons and LEDs
-　• 4 push-buttons
-　• 2 slide switches
-　• 4 LEDs
-　• 2 RGB LEDs
-Expansion Connectors
-　• Two standard Pmod ports
-　　• 16 Total FPGA I/O (8 shared pins with
-　　　Raspberry Pi connector)
-　• Arduino Shield connector
-　　• 24 Total FPGA I/O
-　　• 6 Single-ended 0-3.3V Analog inputs to XADC
-　• Raspberry Pi connector
-　　• 28 Total FPGA I/O (8 shared pins with Pmod
-　　　A port)
+  info:
   url: https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html
 
 - img: Pynq-z1.png
