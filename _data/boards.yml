@@ -7,65 +7,59 @@ docs:
   info: 
   url: https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html
 
-- img: 
+- img: Pynq-z1.png
   board: PYNQ-Z1
   subhead:
   info:
   url:
 
-- img:
+- img: 01_PYNQ-ZU.png
   board: PYNQ-ZU
   subhead:
   info:
   url:
 
-- img:
+- img: kria.png
   board: Kria KV260 Starter Kit
   subhead:
   info:
   url:
 
-- img:
+- img: zcu104.jpg
   board: ZCU104
   subhead:
   info:
   url:
 
-- img:
+- img: RFSOC.jpg
   board: RFSoC 2x2
   subhead:
   info:
   url:
 
-- img:
+- img: zcu111.jpg
   board: ZCU111
   subhead:
   info:
   url:
 
-- img:
+- img: ultra96-v2.jpg
   board: Ultra96V2
   subhead:
   info:
   url:
 
-- img:
-  board: Ultra96 (Legacy)
-  subhead:
-  info:
-  url:
-
-- img:
+- img: tysom_3.jpg
   board: TySOM-3-ZU7EV
   subhead:
   info:
-  url:
+  url: https://www.aldec.com/en/products/emulation/tysom_boards/zynq_ultrascale_mpsoc/tysom_3_zu7ev
 
-- img:
+- img: TySOM-3A.jpg
   board: TySOM-3A-ZU19EG
   subhead:
   info:
-  url:
+  url: https://www.aldec.com/en/products/emulation/tysom_boards/zynq_ultrascale_mpsoc/tysom_3a_zu19eg
 
 
 
