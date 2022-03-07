@@ -6,13 +6,11 @@ subheadline         :
 teaser              : 
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/getting-started/"
-
 callforaction:
-  url: https://pynq.readthedocs.io/en/latest/getting_started.html
-  text: Click Here to see Getting started files!
-  style: alert
-permalink: /getting-started.html
+   url               : https://pynq.readthedocs.io/en/latest/getting_started.html
+   text              : Click Here to see Getting started files!
+   style             : alert
+permalink           : "/getting-started/"
 ---
 
 
