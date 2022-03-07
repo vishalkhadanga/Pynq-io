@@ -2,8 +2,70 @@ docs_list_title: boards
 docs:
 
 - img: PYNQ-Z2.jpg
-  alt: PYNQ-Z2
   board: PYNQ-Z2
   subhead: ZYNQ XC7Z020-1CLG400C
   info: 
   url: https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html
+
+- img: 
+  board: PYNQ-Z1
+  subhead:
+  info:
+  url:
+
+- img:
+  board: PYNQ-ZU
+  subhead:
+  info:
+  url:
+
+- img:
+  board: Kria KV260 Starter Kit
+  subhead:
+  info:
+  url:
+
+- img:
+  board: ZCU104
+  subhead:
+  info:
+  url:
+
+- img:
+  board: RFSoC 2x2
+  subhead:
+  info:
+  url:
+
+- img:
+  board: ZCU111
+  subhead:
+  info:
+  url:
+
+- img:
+  board: Ultra96V2
+  subhead:
+  info:
+  url:
+
+- img:
+  board: Ultra96 (Legacy)
+  subhead:
+  info:
+  url:
+
+- img:
+  board: TySOM-3-ZU7EV
+  subhead:
+  info:
+  url:
+
+- img:
+  board: TySOM-3A-ZU19EG
+  subhead:
+  info:
+  url:
+
+
+
