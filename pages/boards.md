@@ -11,10 +11,12 @@ permalink           : "/boards/"
 
 See our collection of PYNQ and PYNQ compatible boards!
 
+{% for item in site.data.boards.docs %}
 <div class="card">
-  <img src="{{ site.urlimg }}zcu104.jpg" alt="ZCU104" style="width:100%">
-  <h1>ZCU104</h1>
-  <p class="price">$price</p>
-  <p>Some text about the board...</p>
-  <p><button>See Vendor Website</button></p>
+  <img src="{{ site.urlimg }} {{ item.img }}" alt="{{ item.alt }}" style="width:100%">
+  <h1>{{ item.board }}</h1>
+  <p class="price">{{ item.subhead }}</p>
+  <p>{{ item.info }}</p>
+  <p><button href="{{ item.url }}">See Vendor Website</button></p>
 </div>
+{% endfor %}

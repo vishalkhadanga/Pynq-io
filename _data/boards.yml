@@ -1,0 +1,9 @@
+docs_list_title: boards
+docs:
+
+- img: PYNQ-Z2.jpg
+  alt: PYNQ-Z2
+  board: PYNQ-Z2
+  subhead: ZYNQ XC7Z020-1CLG400C
+  info: 
+  url: https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html
