@@ -4,10 +4,6 @@
   url: "/contact/"
   title: "Contact"
 
-- name: "TUL"
-  url: "https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html"
-  title: "See our range of PYNQ boards"
-
 - name: "Xilinx"
   url: "https://www.xilinx.com"
   title: "See the Xilinx Website"

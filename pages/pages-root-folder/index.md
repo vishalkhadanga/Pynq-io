@@ -32,11 +32,6 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://www.tulembedded.com/FPGA/ProductsPYNQ-ZU.html
-  text: Click here to buy PYNQ Boards! 
-  style: alert
-permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
