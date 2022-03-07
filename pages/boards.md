@@ -13,10 +13,10 @@ See our collection of PYNQ and PYNQ compatible boards!
 
 {% for item in site.data.boards.docs %}
 <div class="card">
-  <img src="{{ site.urlimg }} {{ item.img }}" alt="{{ item.alt }}" style="width:100%">
+  <img src="{{ site.urlimg }}{{ item.img }}" alt="{{ item.alt }}" style="width:100%">
   <h1>{{ item.board }}</h1>
   <p class="price">{{ item.subhead }}</p>
   <p>{{ item.info }}</p>
-  <p><button href="{{ item.url }}">See Vendor Website</button></p>
+  <p><button><a href="{{ item.url }}">See Vendor Website</a></button></p>
 </div>
 {% endfor %}
