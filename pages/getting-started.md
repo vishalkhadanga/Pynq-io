@@ -26,7 +26,7 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 If you have a Zynq board, you need a PYNQ SD card image to get started. You can download a pre-compiled PYNQ image from the table below. If an image is not available for your board, you can build your own SD card image (see details below).
 
 <center><table class="pynq_images">
-<tbody><tr><th>Board</th><th>SD card image</th><th>Documentation</th><th>Vendor webpage</th></tr>
+<tbody><tr><th>Board</th><th>SD card image</th><th>Documentation</th></tr>
   <tr>
   <td>PYNQ-Z2</td>
   <td><a href="https://bit.ly/pynqz2_2_7">v2.7</a> </td>
