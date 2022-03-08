@@ -21,74 +21,74 @@ docs:
   project: Extended Kalman filter
   url: https://github.com/sfox14/pynq-ekf
 
-- img: 
+- img: 2p5.png
   college: ETH Zurich
   project: FPGA-based neural network inference project - SpoonNN
-  url: 
+  url: https://github.com/fpgasystems/spooNN
 
-- img: 
+- img: 2p6.png
   college: FPGA-based neural network inference for DAC 2018 contest
   project: iSmart DNN
-  url: 
+  url: https://github.com/onioncc/iSmartDNN
 
-- img: 
+- img: 2p7.png
   college: FPGA-based neural network inference for DAC 2018 contest
   project: TGIIF
-  url: 
+  url: https://github.com/hirayaku/DAC2018-TGIIF
 
-- img: 
+- img: 2p8.png
   college: Accelerated OpenCV image filtering library
   project: cv2PYNQ FAU
+  url: https://github.com/wbrueckner/cv2pynq
+
+- img: 
+  college: KU Leuven
+  project: Hardware accelerated video processing - Video Processing
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: ETH Zurich
+  project: Hardware accelerated compression - ZipML-PYNQ
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: IT Tallaght
+  project: Control of robotic car from PYNQ - PYNQ bot
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: Fudan University, Xilinx China
+  project: PYNQ LED cube controller - PYNQ LED cube
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: Xilinx ISM, Trenz electronics
+  project: Industrial motor control - SPYN
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: Xilinx labs
+  project: Overlay with network analysis capability - PYNQ networking
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: Xilinx labs
+  project: Qunatised neural networks - QNN
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: TU Kaiserslautern
+  project: Quantized LSTM on PYNQ - LTSM
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: NTNU, University Sydney, Xilinx labs
+  project: Binarise neural network - BNN
   url: 
 
 - img: 
-  college: 
-  project: 
-  url: 
-
-- img: 
-  college: 
-  project: 
+  college: BYU
+  project: Video filtering with partial reconfiguration - Video filters with PR
   url: 
 
 - img: 
