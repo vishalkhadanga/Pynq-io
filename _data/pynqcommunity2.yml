@@ -9,17 +9,17 @@ docs:
 - img: 2p2.png
   college: Hardware accelerated image resizer example
   project: PYNQ Hello World
-  url: 
+  url: https://github.com/Xilinx/PYNQ-HelloWorld
 
 - img: 2p3.png
   college: UCSD
   project: RISC-V on PYNQ
-  url: 
+  url: https://github.com/drichmond/RISC-V-On-PYNQ
 
 - img: 2p4.png
   college: University Sydney
   project: Extended Kalman filter
-  url: 
+  url: https://github.com/sfox14/pynq-ekf
 
 - img: 
   college: ETH Zurich
