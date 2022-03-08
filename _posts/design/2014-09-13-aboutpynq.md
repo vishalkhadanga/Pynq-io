@@ -19,9 +19,9 @@ categories:
     - design
 permalink: "/aboutpynq/"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "Topimage.jpg"
 image:
-    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+    thumb: "Topimage.jpg"
 ---
 
 <!--more-->
