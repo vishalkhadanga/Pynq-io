@@ -17,7 +17,7 @@ Examples include image and video processing, robot and industrial control, machi
 
 <div class="row t60">
 
-{% for item in site.data.pynqcommunity.docs %}
+{% for item in site.data.pynqcommunity2.docs %}
     <div class="medium-3 columns">
         <div class="imgcont"><center><img src="{{ site.urlimg }}{{ item.img }}"></center></div>
         <center><p><h5>{{ item.college }}: </h5><a href="{{ item.url }}">{{ item.project }}</a></p></center>
@@ -28,8 +28,8 @@ Examples include image and video processing, robot and industrial control, machi
 
 <div class="pagination">
   <a href="#">&laquo;</a>
-  <a class="active" href="/design/pynq-community-projects/">1</a>
-  <a href="/design/pynq-community-projects2/">2</a>
+  <a href="/design/pynq-community-projects/">1</a>
+  <a class="active" href="/design/pynq-community-projects2/">2</a>
   <a href="#">&raquo;</a>
 </div>
 
