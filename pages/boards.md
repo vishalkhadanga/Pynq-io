@@ -5,7 +5,7 @@ title               : "PYNQ Boards"
 subheadline         : 
 teaser              : 
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "Topimage.jpg"
 permalink           : "/boards/"
 ---
 

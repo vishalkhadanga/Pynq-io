@@ -4,7 +4,7 @@ subheadline:
 title: "PYNQ Community"
 teaser: "See either of the links below:"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "Topimage.jpg"
 permalink: "/pynq-community/"
 ---
 <ul>
