@@ -26,7 +26,12 @@ Examples include image and video processing, robot and industrial control, machi
 </div><!-- /.row -->
 
 
-
+<div class="pagination">
+  <a href="#">&laquo;</a>
+  <a class="active" href="/design/pynq-community-projects/">1</a>
+  <a href="#">2</a>
+  <a href="#">&raquo;</a>
+</div>
 
 
 

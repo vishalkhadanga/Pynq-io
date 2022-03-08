@@ -87,3 +87,21 @@ sitemap:
 .card button:hover {
   opacity: 0.7;
 }
+
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.pagination a.active {
+  background-color: #e63380;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: rgba(240, 135, 180, 0.75);}
