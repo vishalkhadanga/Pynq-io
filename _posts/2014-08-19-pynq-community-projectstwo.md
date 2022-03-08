@@ -29,7 +29,7 @@ Examples include image and video processing, robot and industrial control, machi
 <div class="pagination">
   <a href="#">&laquo;</a>
   <a href="/design/pynq-community-projects/">1</a>
-  <a class="active" href="/design/pynq-community-projects2/">2</a>
+  <a class="active" href="/design/pynq-community-projectstwo/">2</a>
   <a href="#">&raquo;</a>
 </div>
 
