@@ -2,43 +2,43 @@ docs_list_title: pynqcommunity2
 docs:
 
 - img: 2p1.png
-  college: BYU - Partial reconfiguration Input/Output
-  project: PYNQ-PRIO
+  college: BYUt
+  project: Partial reconfiguration Input/Outpu - PYNQ-PRIO
   url: https://github.com/byuccl/PYNQ-PRIO
 
-- img: 
-  college: 
-  project: 
+- img: 2p2.png
+  college: Hardware accelerated image resizer example
+  project: PYNQ Hello World
+  url: 
+
+- img: 2p3.png
+  college: UCSD
+  project: RISC-V on PYNQ
+  url: 
+
+- img: 2p4.png
+  college: University Sydney
+  project: Extended Kalman filter
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: ETH Zurich
+  project: FPGA-based neural network inference project - SpoonNN
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: FPGA-based neural network inference for DAC 2018 contest
+  project: iSmart DNN
   url: 
 
 - img: 
-  college: 
-  project: 
+  college: FPGA-based neural network inference for DAC 2018 contest
+  project: TGIIF
   url: 
 
 - img: 
-  college: 
-  project: 
-  url: 
-
-- img: 
-  college: 
-  project: 
-  url: 
-
-- img: 
-  college: 
-  project: 
+  college: Accelerated OpenCV image filtering library
+  project: cv2PYNQ FAU
   url: 
 
 - img: 
