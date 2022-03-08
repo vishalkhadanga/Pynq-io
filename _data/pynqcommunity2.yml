@@ -41,89 +41,88 @@ docs:
   project: cv2PYNQ FAU
   url: https://github.com/wbrueckner/cv2pynq
 
-- img: 
+- img: 2p9.png
   college: KU Leuven
   project: Hardware accelerated video processing - Video Processing
-  url: 
+  url: https://github.com/Pieter-Berteloot/PYNQ_Projects
 
-- img: 
+- img: 2p10.jpg
   college: ETH Zurich
   project: Hardware accelerated compression - ZipML-PYNQ
-  url: 
+  url: https://github.com/fpgasystems/ZipML-PYNQ
 
-- img: 
+- img: 2p11.png
   college: IT Tallaght
   project: Control of robotic car from PYNQ - PYNQ bot
-  url: 
+  url: https://github.com/Xilinx/PYNQ-BOT
 
-- img: 
+- img: 2p12.png
   college: Fudan University, Xilinx China
   project: PYNQ LED cube controller - PYNQ LED cube
-  url: 
+  url: https://github.com/sonnyhcl/PYNQ-Light-Cube
 
-- img: 
+- img: 2p13.png
   college: Xilinx ISM, Trenz electronics
   project: Industrial motor control - SPYN
-  url: 
+  url: https://github.com/Xilinx/IIoT-SPYN
 
-- img: 
+- img: 2p14.png
   college: Xilinx labs
   project: Overlay with network analysis capability - PYNQ networking
-  url: 
+  url: https://github.com/Xilinx/PYNQ-Networking
 
-- img: 
+- img: 2p15.png
   college: Xilinx labs
   project: Qunatised neural networks - QNN
-  url: 
+  url: https://github.com/Xilinx/QNN-MO-PYNQ
 
-- img: 
+- img: 2p16.png
   college: TU Kaiserslautern
   project: Quantized LSTM on PYNQ - LTSM
-  url: 
+  url: https://github.com/tukl-msd/LSTM-PYNQ
 
 - img: 
   college: NTNU, University Sydney, Xilinx labs
   project: Binarise neural network - BNN
-  url: 
+  url: https://github.com/Xilinx/BNN-PYNQ/
 
 - img: 
   college: BYU
   project: Video filtering with partial reconfiguration - Video filters with PR
-  url: 
+  url: https://github.com/AEW2015/PYNQ_PR_Overlay
 
 - img: 
-  college: 
-  project: 
-  url: 
+  college: Xilinx labs
+  project: Build a viseon processing pipeline from xfOpenCV - PYNQ computer viseon
+  url: https://github.com/Xilinx/PYNQ-ComputerVision
 
 - img: 
-  college: 
-  project: 
-  url: 
+  college: University Bucharest
+  project: GZip compression with DEFLATE-compatible data, and fixed Huffman coding - GZip on PYNQ
+  url: https://gitlab.dcae.pub.ro/research/PynqGzip
 
 - img: 
-  college: 
-  project: 
-  url: 
+  college: NUTA
+  project: Apache Spark on PYNQ - SPynq
+  url: https://github.com/AcceleratedCloud/SPynq
 
 - img: 
-  college: 
-  project: 
-  url: 
+  college: CU Boulder
+  project: FIR filter example - FIR filter example
+  url: https://github.com/hackwa/pynqfire/blob/master/notebooks/fir.ipynb
 
 - img: 
-  college: 
-  project: 
-  url: 
+  college: Imperial College London
+  project: CNN on PYNQ
+  url: https://github.com/awai54st/PYNQ-Classification
 
 - img: 
-  college: 
-  project: 
-  url: 
-
+  college: HMI Video Processing 
+  project: VectorBlox
+  url: https://github.com/VectorBlox/PYNQ
 - img: 
-  college: 
-  project: 
-  url: 
+  college: Ruhr University Bochum
+  project: Soft GPU on PYNQ - Soft GPU
+  url: https://github.com/malkadi/FGPU_IPython/
 
 
