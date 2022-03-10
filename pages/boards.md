@@ -19,5 +19,8 @@ See our collection of PYNQ and PYNQ compatible boards!
   <p>{{ item.info }}</p>
   <p><button onclick="location.href='{{ item.url }}';" target="_blank">See Vendor Website</button></p>
 </div>
-<hr height="20px"></hr>
+<pre>
+
+</pre>
+<hr>
 {% endfor %}
