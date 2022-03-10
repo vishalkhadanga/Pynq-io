@@ -12,7 +12,7 @@ permalink           : "/boards/"
 See our collection of PYNQ and PYNQ compatible boards!
 
 {% for item in site.data.boards.docs %}
-<div class="card">
+<div class="card" padding-bottom="20px">
   <img class="cardimg" src="{{ site.urlimg }}{{ item.img }}" alt="{{ item.board }}">
   <h1>{{ item.board }}</h1>
   <p class="price">{{ item.subhead }}</p>
