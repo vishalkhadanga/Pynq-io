@@ -27,7 +27,7 @@ If you have a Zynq board, you need a PYNQ SD card image to get started. You can 
 
 <center><table class="pynq_images">
 <tbody><tr><th>Board</th><th>SD card image</th><th>Documentation</th></tr>
-{% tablerow product in site.data.gettingstarted.docs %}
+{% tablerow for item in site.data.gettingstarted.docs %}
   <td>{{ item.board }}</td>
   <td><a href="{{ item.sd }}">{{ item.sdtitle }}</a> </td>
   <td><a href="{{ item.documentation }}">{{ item.docname }}</a></td>
