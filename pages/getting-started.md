@@ -26,7 +26,9 @@ See the <a href="https://pynq.readthedocs.io/en/latest/getting_started/alveo_get
 If you have a Zynq board, you need a PYNQ SD card image to get started. You can download a pre-compiled PYNQ image from the table below. If an image is not available for your board, you can build your own SD card image (see details below).
 
 <center><table class="pynq_images">
-<tbody><tr><th>Board</th><th>SD card image</th><th>Documentation</th></tr>
+
+<tr><th>Board</th><th>SD card image</th><th>Documentation</th></tr>
+
 {% for item in site.data.gettingstarted.docs %}
 <tr>
   <td>{{ item.board }}</td>
@@ -34,7 +36,9 @@ If you have a Zynq board, you need a PYNQ SD card image to get started. You can 
   <td><a href="{{ item.documentation }}">{{ item.docname }}</a></td>
 </tr>
 {% endfor %}
-</tbody></table></center>
+
+</table></center>
+
 *For the Kria KV260, follow the guide for the Ubuntu image and then follow the Kria PYNQ setup instructions to install PYNQ.
 
 ## Build a PYNQ SD Card Image
