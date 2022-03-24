@@ -27,11 +27,13 @@ If you have a Zynq board, you need a PYNQ SD card image to get started. You can 
 
 <center><table class="pynq_images">
 <tbody><tr><th>Board</th><th>SD card image</th><th>Documentation</th></tr>
-{% tablerow for item in site.data.gettingstarted.docs %}
+{% for item in site.data.gettingstarted.docs %}
+<tr>
   <td>{{ item.board }}</td>
   <td><a href="{{ item.sd }}">{{ item.sdtitle }}</a> </td>
   <td><a href="{{ item.documentation }}">{{ item.docname }}</a></td>
-{% endtablerow %}
+</tr>
+{% endfor %}
 </tbody></table></center>
 *For the Kria KV260, follow the guide for the Ubuntu image and then follow the Kria PYNQ setup instructions to install PYNQ.
 
