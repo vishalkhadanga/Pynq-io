@@ -1,6 +1,10 @@
 docs_list_title: gstart
 docs:
 
+board: Board
+sdtitle: SD Card Image
+docname: Documentation
+
 board: PYNQ-Z2
 sd: https://bit.ly/pynqz2_2_7
 sdtitle: v2.7
