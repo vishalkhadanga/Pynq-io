@@ -27,7 +27,7 @@ If you have a Zynq board, you need a PYNQ SD card image to get started. You can 
 
 
 <center>
-<table class="pynq_images">
+<table>
 {% for item in site.data.gstart.docs %}
   <tr>
     <td>{{ item.board }}</td>
