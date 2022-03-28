@@ -28,7 +28,7 @@ See our collection of PYNQ boards!
 <h2>Xilinx boards with PYNQ compatibility</h2>
 
 <div class="row">
-{% for item in site.data.boards.docs offset:3 limit:5 %}
+{% for item in site.data.boards.docs offset:3 limit:4 %}
 <div class="column">
   <div class="card" padding-bottom="20px">
     <img class="cardimg" src="{{ site.urlimg }}{{ item.img }}" class="img-fluid" alt="{{ item.board }}">
@@ -44,7 +44,7 @@ See our collection of PYNQ boards!
 <h2>Other PYNQ compatible boards</h2>
 
 <div class="row">
-{% for item in site.data.boards.docs offset:8 limit:3 %}
+{% for item in site.data.boards.docs offset:7 limit:3 %}
 <div class="column">
   <div class="card" padding-bottom="20px">
     <img class="cardimg" src="{{ site.urlimg }}{{ item.img }}" class="img-fluid" alt="{{ item.board }}">
