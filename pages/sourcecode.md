@@ -1,6 +1,9 @@
 ---
-layout: page-fullwidth
+title: "Source Code"
+layout: redirect
+sitemap: false
 permalink: "/sourcecode/"
+redirect_to: "https://github.com/xilinx/pynq/"
 ---
 
-<meta http-equiv="refresh" content="0; URL=https://github.com/xilinx/pynq/" />
+
