@@ -10,7 +10,7 @@ permalink           : "/contact/"
 <html>
   <body>
       <p>For questions:
-        <a href="mailto:xup@xilinx.com?, &subject=PYNQ.io&body=Dear XUP Team">Contact us by Email!</a>
+        <a href="mailto:xup@xilinx.com?, &bcc=&subject=PYNQ Website&body=Dear XUP Team">Contact us by Email!</a>
       </p>
   </body>
 </html>
