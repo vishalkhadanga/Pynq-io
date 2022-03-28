@@ -9,11 +9,10 @@ header:
 permalink           : "/boards/"
 ---
 
-See our collection of PYNQ and PYNQ compatible boards!
-
+See our collection of PYNQ boards!
 
 <div class="row">
-{% for item in site.data.boards.docs %}
+{% for item in site.data.boards.docs limit:3 %}
 <div class="column">
   <div class="card" padding-bottom="20px">
     <img class="cardimg" src="{{ site.urlimg }}{{ item.img }}" class="img-fluid" alt="{{ item.board }}">
@@ -25,3 +24,36 @@ See our collection of PYNQ and PYNQ compatible boards!
 </div>
 {% endfor %}
 </div>
+
+<h2>Xilinx boards with PYNQ compatibility</h2>
+
+<div class="row">
+{% for item in site.data.boards.docs offset:3 limit:5 %}
+<div class="column">
+  <div class="card" padding-bottom="20px">
+    <img class="cardimg" src="{{ site.urlimg }}{{ item.img }}" class="img-fluid" alt="{{ item.board }}">
+    <h1>{{ item.board }}</h1>
+    <p class="price">{{ item.subhead }}</p>
+    <p>{{ item.info }}</p>
+    <p><button onclick="location.href='{{ item.url }}';" target="_blank">See Vendor Website</button></p>
+  </div>
+</div>
+{% endfor %}
+</div>
+
+<h2>Other PYNQ compatible boards</h2>
+
+<div class="row">
+{% for item in site.data.boards.docs offset:8 limit:3 %}
+<div class="column">
+  <div class="card" padding-bottom="20px">
+    <img class="cardimg" src="{{ site.urlimg }}{{ item.img }}" class="img-fluid" alt="{{ item.board }}">
+    <h1>{{ item.board }}</h1>
+    <p class="price">{{ item.subhead }}</p>
+    <p>{{ item.info }}</p>
+    <p><button onclick="location.href='{{ item.url }}';" target="_blank">See Vendor Website</button></p>
+  </div>
+</div>
+{% endfor %}
+</div>
+
