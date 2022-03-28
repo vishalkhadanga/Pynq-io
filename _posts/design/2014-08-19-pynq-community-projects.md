@@ -15,13 +15,13 @@ Examples include image and video processing, robot and industrial control, machi
 <!--more-->
 
 
-<div class="row t60">
 
+<div class="row">
 {% for item in site.data.pynqcommunity.docs limit:24 %}
-    <div class="medium-3 columns">
+    <div class="column">
         <div class="imgcont"><center><img src="{{ site.urlimg }}{{ item.img }}"></center></div>
         <center><p><h5>{{ item.college }}: </h5><a href="{{ item.url }}">{{ item.project }}</a></p></center>
-    </div><!-- /.medium-6.columns -->
+    </div>
 {% endfor %}
 </div><!-- /.row -->
 
