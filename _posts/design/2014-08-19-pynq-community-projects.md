@@ -19,8 +19,10 @@ Examples include image and video processing, robot and industrial control, machi
 <div class="row">
 {% for item in site.data.pynqcommunity.docs limit:24 %}
     <div class="column">
-        <div class="imgcont"><center><img src="{{ site.urlimg }}{{ item.img }}"></center></div>
-        <center><p><h5>{{ item.college }}: </h5><a href="{{ item.url }}">{{ item.project }}</a></p></center>
+        <div class="card">
+            <div class="imgcont"><center><img src="{{ site.urlimg }}{{ item.img }}"></center></div>
+            <center><p><h5>{{ item.college }}: </h5><a href="{{ item.url }}">{{ item.project }}</a></p></center>
+        </div>
     </div>
 {% endfor %}
 </div><!-- /.row -->
