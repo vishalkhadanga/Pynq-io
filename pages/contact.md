@@ -1,9 +1,7 @@
 ---
 layout              : page-fullwidth
-title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+title               : "Contact Us"
+teaser              : "Please don't alter the email subject "PYNQ website" as this will prevent the email ending up in the wrong folder!
 permalink           : "/contact/"
 header:
    image_fullwidth  : Topimage.jpg
