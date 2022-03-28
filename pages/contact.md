@@ -10,12 +10,7 @@ permalink           : "/contact/"
 <html>
   <body>
       <p>For questions:
-        <a href="mailto:xup@xilinx.com?&subject=PYNQ.io&body=Dear XUP Team">Contact us by Email!</a>
-        <address>
-        Verin Antarayin St. 160/6<br/>
-        Yerevan, RA<br/>
-        (+374) 95-588689
-      </address>
-    </footer>
+        <a href="mailto:xup@xilinx.com?, &subject=PYNQ.io&body=Dear XUP Team">Contact us by Email!</a>
+      </p>
   </body>
 </html>
