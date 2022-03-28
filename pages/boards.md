@@ -15,7 +15,7 @@ See our collection of PYNQ and PYNQ compatible boards!
 {% for item in site.data.boards.docs %}
 <div class="column">
   <div class="card" padding-bottom="20px">
-    <img class="cardimg" src="{{ site.urlimg }}{{ item.img }}" alt="{{ item.board }}">
+    <img class="cardimg" src="{{ site.urlimg }}{{ item.img }}" class="img-fluid" alt="{{ item.board }}">
     <h1>{{ item.board }}</h1>
     <p class="price">{{ item.subhead }}</p>
     <p>{{ item.info }}</p>
