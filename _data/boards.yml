@@ -1,6 +1,12 @@
 docs_list_title: boards
 docs:
 
+- img: 01_PYNQ-ZU.png
+  board: PYNQ-ZU
+  subhead: Xilinx Zynq UltraScale+ XCZU5EG-1SFVC784 MPSoC
+  info:
+  url: https://www.tulembedded.com/FPGA/ProductsPYNQ-ZU.html
+
 - img: PYNQ-Z2.jpg
   board: PYNQ-Z2
   subhead: Xilinx ZYNQ XC7Z020-1CLG400C
@@ -12,12 +18,6 @@ docs:
   subhead: Xilinx Zynq-7000 ARM/FPGA SoC
   info: 
   url: https://digilent.com/shop/pynq-z1-python-productivity-for-zynq-7000-arm-fpga-soc/
-
-- img: 01_PYNQ-ZU.png
-  board: PYNQ-ZU
-  subhead: Xilinx Zynq UltraScale+ XCZU5EG-1SFVC784 MPSoC
-  info:
-  url: https://www.tulembedded.com/FPGA/ProductsPYNQ-ZU.html
 
 - img: kria.png
   board: Kria KV260 Starter Kit

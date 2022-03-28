@@ -8,9 +8,9 @@ header:
    image_fullwidth  : "Topimage.jpg"
 permalink           : "/boards/"
 ---
-<center>
+
 See our collection of PYNQ and PYNQ compatible boards!
-</center>
+
 
 <div class="row">
 {% for item in site.data.boards.docs %}
