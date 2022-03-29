@@ -11,7 +11,7 @@ permalink           : "/getting-started/"
 
 ## Board Setup
 
-<a href="https://pynq.readthedocs.io/en/latest/getting_started.html" class="button">Board Setup</a>
+<center><a href="https://pynq.readthedocs.io/en/latest/getting_started.html" class="button" style="block" width="100%">Board Setup</a></center>
 
 ## Development Boards
 
