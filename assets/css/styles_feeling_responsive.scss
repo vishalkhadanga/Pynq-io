@@ -162,22 +162,13 @@ body {
 }
 
 .button-big {
-  display: block;
-  width: 100%;
   border: none;
-  background-color: rgba(240, 135, 180, 0.75);
-  padding-top: 1rem;
-  padding-right: 2rem;
-  padding-bottom: 1.0625rem;
-  padding-left: 2rem;
+  outline: 0;
+  padding: 12px;
+  color: white;
   background-color: #e63380;
-  font-weight: normal;
-  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-align: center;
   cursor: pointer;
-  text-align: center;
-  line-height: normal;
-  position: relative;
-  text-decoration: none;
-  text-align: center;
-  border-radius: 0;
+  width: 100%;
+  font-size: 18px;
 }
