@@ -9,7 +9,7 @@ header:
 permalink           : "/getting-started/"
 ---
 
-<div width="100%"><center><a href="https://pynq.readthedocs.io/en/latest/getting_started.html" class="button" style="block" width="100%">Board Setup</a></center></div>
+<div width="100%"><center><a href="https://pynq.readthedocs.io/en/latest/getting_started.html" class="button" style="width: 100% !important">Board Setup</a></center></div>
 
 ## Development Boards
 
