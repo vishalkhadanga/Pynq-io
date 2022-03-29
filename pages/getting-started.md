@@ -13,6 +13,7 @@ callforaction:
 permalink           : "/getting-started/"
 ---
 
+<center><button type="button" class="block">Setup Guide</button></center>
 
 
 ## Development Boards
