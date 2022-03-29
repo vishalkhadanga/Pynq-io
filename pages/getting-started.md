@@ -9,6 +9,10 @@ header:
 permalink           : "/getting-started/"
 ---
 
+## Board Setup
+
+<a href="https://pynq.readthedocs.io/en/latest/getting_started.html" class="button">Board Setup</a>
+
 ## Development Boards
 
 PYNQ supports Zynq based boards (Zynq, Zynq Ultrascale+, Zynq RFSoC), <a href="https://www.xilinx.com/products/som/kria.html">Kria SOMs</a>, <a href="https://www.xilinx.com/products/boards-and-kits/alveo.html">Xilinx Alveo</a> accelerator boards and <a href="https://aws.amazon.com/ec2/instance-types/f1/">AWS-F1</a> instances.
