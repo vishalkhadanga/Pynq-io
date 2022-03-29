@@ -10,7 +10,7 @@ header:
 <html>
   <body>
       <p>For questions:
-        <a href="mailto:xup@xilinx.com?subject=PYNQ Website&body=Dear XUP Team,">Contact us by Email!</a>
+        <a href="mailto:xup@xilinx.com?subject=PYNQ Website&body=Dear XUP Team">Contact us by Email!</a>
       </p>
   </body>
 </html>
