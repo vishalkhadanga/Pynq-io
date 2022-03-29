@@ -6,14 +6,10 @@ subheadline         :
 teaser              : 
 header:
    image_fullwidth  : "Topimage.jpg"
-callforaction:
-  url: https://pynq.readthedocs.io/en/latest/getting_started.html
-  text: Click Here to see Getting started files!
-  style: alert
 permalink           : "/getting-started/"
 ---
 
-<center><a class="button" href="https://pynq.readthedocs.io/en/latest/getting_started.html">Startup Guide!</a>
+<center><a class="button" href="https://pynq.readthedocs.io/en/latest/getting_started.html">Startup Guide!</a></center>
 
 
 ## Development Boards
