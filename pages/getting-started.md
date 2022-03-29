@@ -13,7 +13,7 @@ callforaction:
 permalink           : "/getting-started/"
 ---
 
-<center><button type="button" class="block">Setup Guide</button></center>
+<center><button type="button" class="block" href="https://pynq.readthedocs.io/en/latest/getting_started.html">Setup Guide</button></center>
 
 
 ## Development Boards
