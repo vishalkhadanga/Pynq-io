@@ -3,13 +3,13 @@ docs:
 
 - img: 01_PYNQ-ZU.png
   board: PYNQ-ZU
-  subhead: Xilinx Zynq UltraScale+ XCZU5EG-1SFVC784 MPSoC
+  subhead: Xilinx Zynq UltraScale+ XCZU5EG-1SFVC784 MPSoC, Suitable for classroom teaching and advanced high-performance embedded projects
   info:
   url: https://www.tulembedded.com/FPGA/ProductsPYNQ-ZU.html
 
 - img: PYNQ-Z2.jpg
   board: PYNQ-Z2
-  subhead: Xilinx ZYNQ XC7Z020-1CLG400C
+  subhead: Xilinx ZYNQ XC7Z020-1CLG400C, Low-cost embedded platform for teaching and student projects
   info:
   url: https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html
 
