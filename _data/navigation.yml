@@ -1,18 +1,18 @@
 - title: Start
   url: "/"
-  side: left
+  side: center
 
 - title: About PYNQ
   url: "/aboutpynq/"
-  side: left
+  side: center
 
 - title: Getting Started
   url: "/getting-started/"
-  side: left
+  side: center
 
 - title: "PYNQ Community"
   url: "#"
-  side: left
+  side: center
   dropdown:
   - title: "PYNQ Community Projects"
     url: "/design/pynq-community-projects/"
@@ -21,16 +21,16 @@
 
 - title: "Boards"
   url: "/boards/"
-  side: left
+  side: center
 
 - title: Source Code
   url: /sourcecode/
-  side: left
+  side: center
 
 - title: Support
   url: "/support/"
-  side: left
+  side: center
 
 - title: "Contact"
   url: "/contact/"
-  side: right
+  side: center
