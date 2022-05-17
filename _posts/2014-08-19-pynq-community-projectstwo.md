@@ -6,7 +6,7 @@ teaser:
 categories:
     - design
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: "White.png"
 ---
 The PYNQ embedded community page highlights examples of projects for Zynq based boards.
 
