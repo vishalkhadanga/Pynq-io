@@ -5,7 +5,7 @@ title               : "Getting Started"
 subheadline         : 
 teaser              : 
 header:
-   image_fullwidth  : "Topimage.jpg"
+   image_fullwidth  : "White.png"
 permalink           : "/getting-started/"
 ---
 

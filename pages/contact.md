@@ -4,7 +4,7 @@ title               : "Contact Us"
 teaser              : 
 permalink           : "/contact/"
 header:
-   image_fullwidth  : Topimage.jpg
+   image_fullwidth  : "White.png"
 ---
 
 <html>

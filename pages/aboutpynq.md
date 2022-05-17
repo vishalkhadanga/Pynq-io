@@ -4,7 +4,7 @@ show_meta: false
 title: "What is PYNQ"
 subheadline: 
 header:
-   image_fullwidth: "Topimage.jpg"
+   image_fullwidth: "White.png"
 permalink: 
 ---
 
