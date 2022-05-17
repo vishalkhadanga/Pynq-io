@@ -19,9 +19,9 @@ categories:
     - design
 permalink: "/aboutpynq/"
 header:
-    image_fullwidth: "Topimage.jpg"
+    image_fullwidth: "White.png"
 image:
-    thumb: "Topimage.jpg"
+    thumb: "White.png"
 ---
 
 <!--more-->
