@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "White.png"
+  image_fullwidth: "gal19.gif"
 widget1:
   title: "PYNQ Board Portfolio"
   url: 'http://zacarhay.github.io/feeling-responsive/blog/'
