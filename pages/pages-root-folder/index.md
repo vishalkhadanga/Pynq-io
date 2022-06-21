@@ -9,7 +9,7 @@ header:
   image_fullwidth: "gal19.gif"
 widget1:
   title: "PYNQ Board Portfolio"
-  url: 'http://zacarhay.github.io/Pynq-io/blog/'
+  url: 'http://zacarhay.github.io/Pynq-io/boards/'
   image: pynqimg.png
   text: '<em>PYNQ</em> has a small but growing range of boards that enable designers to exploit the benefits of programmable logic and microprocessors to build more capable and exciting electronic systems. They can be used with Xilinx ZYNQ products.'
 widget2:
@@ -34,7 +34,7 @@ widget3:
 #
 permalink: /index.html
 #
-# This is a nasty hack to make the navigation highlight
+# This is a nasty hack to make the navigation highlight 
 # this page as active in the topbar navigation
 #
 homepage: true
