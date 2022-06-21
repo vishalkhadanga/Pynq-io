@@ -11,7 +11,7 @@
   side: right
 
 - title: "PYNQ Community"
-  url: "#"
+  url: "/pynq-community/"
   side: right
   dropdown:
   - title: "PYNQ Community Projects"
